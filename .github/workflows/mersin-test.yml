@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
 
 jobs:
   matematik-test:
@@ -15,7 +15,7 @@ jobs:
       - name: Kaynak kodu al
         uses: actions/checkout@v5
         with:
-          persist-credentials: false
+          persist-credentials: true
 
       - name: Python 3.11
         uses: actions/setup-python@v6
@@ -41,3 +41,26 @@ jobs:
           path: mersin_gecmis.json
           retention-days: 30
           if-no-files-found: error
+
+      - name: MERSIN kalici arsiv olustur
+        run: python kalici_arsiv.py
+
+      - name: MERSIN kalici arsiv yedegi
+        uses: actions/upload-artifact@v6
+        with:
+          name: mersin-kalici-arsiv
+          path: mersin_kalici_arsiv.json
+          retention-days: 30
+          if-no-files-found: error
+      - name: MERSIN kalici arsivi kaydet
+        if: github.repository == 'NECATIAKTU/mersin-lab' && github.ref == 'refs/heads/main'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add mersin_kalici_arsiv.json
+          if git diff --cached --quiet; then
+            echo "Degisiklik yok"
+          else
+            git commit -m "MERSIN kalici arsiv guncelleme"
+            git push origin HEAD:main
+          fi
