@@ -1,0 +1,26 @@
+name: MERSIN LAB - Bagimsiz Test
+
+on:
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  matematik-test:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+
+    steps:
+      - name: Kaynak kodu al
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: MERSIN matematik testleri
+        run: python -m unittest -v test_lab
