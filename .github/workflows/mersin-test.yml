@@ -49,7 +49,8 @@ jobs:
 
       - name: MERSIN kalici arsiv olustur
         run: python kalici_arsiv.py
-
+      - name: MERSIN V15 panel aktarimi
+        run: python panel_aktarim.py
       - name: MERSIN kalici arsiv yedegi
         uses: actions/upload-artifact@v6
         with:
@@ -62,7 +63,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add mersin_kalici_arsiv.json
+          git add mersin_kalici_arsiv.json mersin_panel.json
           if git diff --cached --quiet; then
             echo "Degisiklik yok"
           else
