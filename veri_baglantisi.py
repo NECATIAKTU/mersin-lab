@@ -1,7 +1,7 @@
 import json
 from urllib.request import urlopen
 from datetime import datetime, timezone
-
+from pathlib import Path
 URL = (
     "https://raw.githubusercontent.com/"
     "NECATIAKTU/tipster-pro-v18/main/"
@@ -13,7 +13,9 @@ def verileri_al():
     with urlopen(URL, timeout=30) as response:
         kayitlar = json.load(response)
 
-    gecmis = []
+    arsiv = Path(__file__).resolve().parent / "mersin_kalici_arsiv.json"
+    with arsiv.open("r", encoding="utf-8") as dosya:
+        gecmis = json.load(dosya)["maclar"]
     fikstur = []
     simdi = datetime.now(timezone.utc)
 
@@ -32,21 +34,7 @@ def verileri_al():
             veri["tarih"].replace("Z", "+00:00")
         )
 
-        if (
-            kayit.get("durum") == "DOGRULANDI"
-            and sonuc.get("durum") == "TAMAMLANDI"
-            and kayit.get("sonuc_dogrulama_zamani_utc")
-        ):
-            gecmis.append({
-                **veri,
-                "ev_gol": sonuc["ev_gol"],
-                "dep_gol": sonuc["dep_gol"],
-                "dogrulama_zamani": kayit[
-                    "sonuc_dogrulama_zamani_utc"
-                ]
-            })
-
-        elif tarih > simdi:
+        if tarih > simdi:
             fikstur.append(veri)
 
     return {
