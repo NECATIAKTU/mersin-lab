@@ -30,7 +30,8 @@ jobs:
 
       - name: MERSIN V04 istatistik kontrolu
         run: python lab_v04.py
-
+      - name: MERSIN V11 entegrasyon testi
+        run: python entegrasyon.py
       - name: MERSIN gecmis veri toplama
         run: python gecmis_veri.py
 
