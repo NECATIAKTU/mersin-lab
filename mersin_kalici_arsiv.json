@@ -1,8 +1,8 @@
 {
   "sistem": "MERSIN LAB V06",
-  "guncelleme": "2026-11-25T11:39:21.700886+00:00",
-  "mac_sayisi": 500,
-  "lig_sayisi": 15,
+  "guncelleme": "2026-11-25T12:41:26.584402+00:00",
+  "mac_sayisi": 872,
+  "lig_sayisi": 27,
   "maclar": [
     {
       "id": "401888264",
@@ -25,6 +25,17 @@
       "dep_id": "997",
       "ev_gol": 3,
       "dep_gol": 4
+    },
+    {
+      "id": "401874531",
+      "lig": "den.1",
+      "tarih": "2026-10-26T18:00Z",
+      "ev": "F.C. København",
+      "dep": "Odense Boldklub",
+      "ev_id": "909",
+      "dep_id": "11550",
+      "ev_gol": 1,
+      "dep_gol": 1
     },
     {
       "id": "401888265",
@@ -93,6 +104,17 @@
       "dep_gol": 1
     },
     {
+      "id": "401881290",
+      "lig": "eng.4",
+      "tarih": "2026-10-26T20:00Z",
+      "ev": "Walsall",
+      "dep": "Salford City",
+      "ev_id": "401",
+      "dep_id": "4703",
+      "ev_gol": 2,
+      "dep_gol": 4
+    },
+    {
       "id": "401882828",
       "lig": "esp.1",
       "tarih": "2026-10-26T20:00Z",
@@ -101,6 +123,50 @@
       "ev_id": "243",
       "dep_id": "97",
       "ev_gol": 2,
+      "dep_gol": 0
+    },
+    {
+      "id": "401841630",
+      "lig": "arg.1",
+      "tarih": "2026-10-26T22:00Z",
+      "ev": "Unión (Santa Fe)",
+      "dep": "Estudiantes de La Plata",
+      "ev_id": "20",
+      "dep_id": "8",
+      "ev_gol": 3,
+      "dep_gol": 1
+    },
+    {
+      "id": "401841279",
+      "lig": "bra.1",
+      "tarih": "2026-10-26T22:30Z",
+      "ev": "Coritiba",
+      "dep": "Grêmio",
+      "ev_id": "3456",
+      "dep_id": "6273",
+      "ev_gol": 0,
+      "dep_gol": 1
+    },
+    {
+      "id": "401841286",
+      "lig": "bra.1",
+      "tarih": "2026-10-26T23:00Z",
+      "ev": "Flamengo",
+      "dep": "Atlético-MG",
+      "ev_id": "819",
+      "dep_id": "7632",
+      "ev_gol": 3,
+      "dep_gol": 2
+    },
+    {
+      "id": "401841635",
+      "lig": "arg.1",
+      "tarih": "2026-10-27T00:15Z",
+      "ev": "Instituto (Córdoba)",
+      "dep": "Deportivo Riestra",
+      "ev_id": "2975",
+      "dep_id": "17702",
+      "ev_gol": 1,
       "dep_gol": 0
     },
     {
@@ -124,6 +190,17 @@
       "dep_id": "3257",
       "ev_gol": 1,
       "dep_gol": 1
+    },
+    {
+      "id": "401842858",
+      "lig": "swe.1",
+      "tarih": "2026-10-27T18:00Z",
+      "ev": "AIK",
+      "dep": "IF Elfsborg",
+      "ev_id": "994",
+      "dep_id": "529",
+      "ev_gol": 2,
+      "dep_gol": 2
     },
     {
       "id": "401899570",
@@ -247,6 +324,116 @@
       "dep_gol": 0
     },
     {
+      "id": "401881347",
+      "lig": "eng.4",
+      "tarih": "2026-10-27T19:45Z",
+      "ev": "Barnet",
+      "dep": "York City",
+      "ev_id": "280",
+      "dep_id": "315",
+      "ev_gol": 3,
+      "dep_gol": 1
+    },
+    {
+      "id": "401889227",
+      "lig": "eng.5",
+      "tarih": "2026-10-27T19:45Z",
+      "ev": "Worthing",
+      "dep": "Southend United",
+      "ev_id": "128663",
+      "dep_id": "310",
+      "ev_gol": 3,
+      "dep_gol": 3
+    },
+    {
+      "id": "401889228",
+      "lig": "eng.5",
+      "tarih": "2026-10-27T19:45Z",
+      "ev": "Woking",
+      "dep": "Boreham Wood",
+      "ev_id": "290",
+      "dep_id": "2595",
+      "ev_gol": 1,
+      "dep_gol": 2
+    },
+    {
+      "id": "401889229",
+      "lig": "eng.5",
+      "tarih": "2026-10-27T19:45Z",
+      "ev": "Wealdstone",
+      "dep": "Solihull Moors",
+      "ev_id": "3887",
+      "dep_id": "13061",
+      "ev_gol": 2,
+      "dep_gol": 3
+    },
+    {
+      "id": "401889230",
+      "lig": "eng.5",
+      "tarih": "2026-10-27T19:45Z",
+      "ev": "Tamworth",
+      "dep": "Scunthorpe United",
+      "ev_id": "645",
+      "dep_id": "313",
+      "ev_gol": 4,
+      "dep_gol": 1
+    },
+    {
+      "id": "401889231",
+      "lig": "eng.5",
+      "tarih": "2026-10-27T19:45Z",
+      "ev": "FC Halifax Town",
+      "dep": "Barrow",
+      "ev_id": "312",
+      "dep_id": "642",
+      "ev_gol": 2,
+      "dep_gol": 3
+    },
+    {
+      "id": "401889232",
+      "lig": "eng.5",
+      "tarih": "2026-10-27T19:45Z",
+      "ev": "Boston United",
+      "dep": "Gateshead",
+      "ev_id": "3256",
+      "dep_id": "3138",
+      "ev_gol": 2,
+      "dep_gol": 1
+    },
+    {
+      "id": "401889233",
+      "lig": "eng.5",
+      "tarih": "2026-10-27T19:45Z",
+      "ev": "Altrincham",
+      "dep": "Kidderminster Harriers",
+      "ev_id": "633",
+      "dep_id": "319",
+      "ev_gol": 0,
+      "dep_gol": 0
+    },
+    {
+      "id": "401889234",
+      "lig": "eng.5",
+      "tarih": "2026-10-27T19:45Z",
+      "ev": "AFC Fylde",
+      "dep": "Hartlepool United",
+      "ev_id": "13884",
+      "dep_id": "323",
+      "ev_gol": 3,
+      "dep_gol": 1
+    },
+    {
+      "id": "401889420",
+      "lig": "eng.5",
+      "tarih": "2026-10-27T19:45Z",
+      "ev": "AFC Hornchurch",
+      "dep": "Yeovil Town",
+      "ev_id": "10167",
+      "dep_id": "284",
+      "ev_gol": 1,
+      "dep_gol": 2
+    },
+    {
       "id": "401874780",
       "lig": "ita.1",
       "tarih": "2026-10-27T19:45Z",
@@ -267,6 +454,28 @@
       "dep_id": "2572",
       "ev_gol": 1,
       "dep_gol": 3
+    },
+    {
+      "id": "401878552",
+      "lig": "sco.2",
+      "tarih": "2026-10-27T19:45Z",
+      "ev": "Stenhousemuir",
+      "dep": "Dunfermline Athletic",
+      "ev_id": "405",
+      "dep_id": "265",
+      "ev_gol": 0,
+      "dep_gol": 1
+    },
+    {
+      "id": "401841642",
+      "lig": "arg.1",
+      "tarih": "2026-10-27T22:00Z",
+      "ev": "Argentinos Juniors",
+      "dep": "Independiente Rivadavia",
+      "ev_id": "3",
+      "dep_id": "9744",
+      "ev_gol": 1,
+      "dep_gol": 0
     },
     {
       "id": "401874773",
@@ -313,6 +522,50 @@
       "dep_gol": 3
     },
     {
+      "id": "401842860",
+      "lig": "swe.1",
+      "tarih": "2026-10-28T18:00Z",
+      "ev": "IFK Göteborg",
+      "dep": "Djurgården",
+      "ev_id": "2556",
+      "dep_id": "2339",
+      "ev_gol": 1,
+      "dep_gol": 1
+    },
+    {
+      "id": "401842862",
+      "lig": "swe.1",
+      "tarih": "2026-10-28T18:00Z",
+      "ev": "Halmstads BK",
+      "dep": "Malmö FF",
+      "ev_id": "3017",
+      "dep_id": "2720",
+      "ev_gol": 0,
+      "dep_gol": 3
+    },
+    {
+      "id": "401842863",
+      "lig": "swe.1",
+      "tarih": "2026-10-28T18:00Z",
+      "ev": "Degerfors IF",
+      "dep": "Västerås SK",
+      "ev_id": "20856",
+      "dep_id": "22163",
+      "ev_gol": 0,
+      "dep_gol": 3
+    },
+    {
+      "id": "401842864",
+      "lig": "swe.1",
+      "tarih": "2026-10-28T18:00Z",
+      "ev": "IF Brommapojkarna",
+      "dep": "BK Häcken",
+      "ev_id": "8221",
+      "dep_id": "7834",
+      "ev_gol": 0,
+      "dep_gol": 0
+    },
+    {
       "id": "401899575",
       "lig": "ita.2",
       "tarih": "2026-10-28T19:00Z",
@@ -333,6 +586,39 @@
       "dep_id": "3345",
       "ev_gol": 2,
       "dep_gol": 1
+    },
+    {
+      "id": "401889224",
+      "lig": "eng.5",
+      "tarih": "2026-10-28T19:45Z",
+      "ev": "Sutton United",
+      "dep": "Aldershot Town",
+      "ev_id": "3231",
+      "dep_id": "632",
+      "ev_gol": 2,
+      "dep_gol": 0
+    },
+    {
+      "id": "401889225",
+      "lig": "eng.5",
+      "tarih": "2026-10-28T19:45Z",
+      "ev": "Forest Green Rovers",
+      "dep": "Eastleigh",
+      "ev_id": "282",
+      "dep_id": "3897",
+      "ev_gol": 2,
+      "dep_gol": 0
+    },
+    {
+      "id": "401889226",
+      "lig": "eng.5",
+      "tarih": "2026-10-28T19:45Z",
+      "ev": "Carlisle United",
+      "dep": "Harrogate Town",
+      "ev_id": "322",
+      "dep_id": "19262",
+      "ev_gol": 3,
+      "dep_gol": 0
     },
     {
       "id": "401874799",
@@ -357,6 +643,127 @@
       "dep_gol": 0
     },
     {
+      "id": "401878351",
+      "lig": "sco.1",
+      "tarih": "2026-10-28T19:45Z",
+      "ev": "St Mirren",
+      "dep": "Hibernian",
+      "ev_id": "250",
+      "dep_id": "258",
+      "ev_gol": 1,
+      "dep_gol": 1
+    },
+    {
+      "id": "401878352",
+      "lig": "sco.1",
+      "tarih": "2026-10-28T19:45Z",
+      "ev": "St Johnstone",
+      "dep": "Motherwell",
+      "ev_id": "267",
+      "dep_id": "266",
+      "ev_gol": 2,
+      "dep_gol": 2
+    },
+    {
+      "id": "401878354",
+      "lig": "sco.1",
+      "tarih": "2026-10-28T19:45Z",
+      "ev": "Dundee",
+      "dep": "Kilmarnock",
+      "ev_id": "261",
+      "dep_id": "260",
+      "ev_gol": 3,
+      "dep_gol": 1
+    },
+    {
+      "id": "401878355",
+      "lig": "sco.1",
+      "tarih": "2026-10-28T19:45Z",
+      "ev": "Celtic",
+      "dep": "Dundee United",
+      "ev_id": "256",
+      "dep_id": "264",
+      "ev_gol": 2,
+      "dep_gol": 2
+    },
+    {
+      "id": "401878356",
+      "lig": "sco.1",
+      "tarih": "2026-10-28T19:45Z",
+      "ev": "Aberdeen",
+      "dep": "Falkirk",
+      "ev_id": "263",
+      "dep_id": "254",
+      "ev_gol": 0,
+      "dep_gol": 1
+    },
+    {
+      "id": "401878353",
+      "lig": "sco.1",
+      "tarih": "2026-10-28T20:00Z",
+      "ev": "Heart of Midlothian",
+      "dep": "Rangers",
+      "ev_id": "262",
+      "dep_id": "257",
+      "ev_gol": 2,
+      "dep_gol": 2
+    },
+    {
+      "id": "401841289",
+      "lig": "bra.1",
+      "tarih": "2026-10-28T22:30Z",
+      "ev": "Fluminense",
+      "dep": "Internacional",
+      "ev_id": "3445",
+      "dep_id": "1936",
+      "ev_gol": 2,
+      "dep_gol": 1
+    },
+    {
+      "id": "401841291",
+      "lig": "bra.1",
+      "tarih": "2026-10-28T22:30Z",
+      "ev": "Red Bull Bragantino",
+      "dep": "Chapecoense",
+      "ev_id": "6079",
+      "dep_id": "9318",
+      "ev_gol": 3,
+      "dep_gol": 0
+    },
+    {
+      "id": "401841293",
+      "lig": "bra.1",
+      "tarih": "2026-10-28T22:30Z",
+      "ev": "Santos",
+      "dep": "Palmeiras",
+      "ev_id": "2674",
+      "dep_id": "2029",
+      "ev_gol": 0,
+      "dep_gol": 0
+    },
+    {
+      "id": "401841296",
+      "lig": "bra.1",
+      "tarih": "2026-10-29T00:30Z",
+      "ev": "Bahia",
+      "dep": "São Paulo",
+      "ev_id": "9967",
+      "dep_id": "2026",
+      "ev_gol": 3,
+      "dep_gol": 2
+    },
+    {
+      "id": "401841297",
+      "lig": "bra.1",
+      "tarih": "2026-10-29T00:30Z",
+      "ev": "Remo",
+      "dep": "Botafogo",
+      "ev_id": "4936",
+      "dep_id": "6086",
+      "ev_gol": 2,
+      "dep_gol": 1
+    },
+    {
       "id": "401874976",
       "lig": "ita.1",
       "tarih": "2026-10-29T17:30Z",
@@ -368,6 +775,39 @@
       "dep_gol": 1
     },
     {
+      "id": "401842861",
+      "lig": "swe.1",
+      "tarih": "2026-10-29T17:30Z",
+      "ev": "Hammarby IF",
+      "dep": "IK Sirius",
+      "ev_id": "2495",
+      "dep_id": "8547",
+      "ev_gol": 2,
+      "dep_gol": 0
+    },
+    {
+      "id": "401842859",
+      "lig": "swe.1",
+      "tarih": "2026-10-29T18:00Z",
+      "ev": "Kalmar FF",
+      "dep": "GAIS",
+      "ev_id": "3052",
+      "dep_id": "8222",
+      "ev_gol": 0,
+      "dep_gol": 1
+    },
+    {
+      "id": "401842865",
+      "lig": "swe.1",
+      "tarih": "2026-10-29T18:00Z",
+      "ev": "Örgryte IS",
+      "dep": "Mjällby AIF",
+      "ev_id": "131552",
+      "dep_id": "20301",
+      "ev_gol": 1,
+      "dep_gol": 2
+    },
+    {
       "id": "401874969",
       "lig": "ita.1",
       "tarih": "2026-10-29T19:45Z",
@@ -377,6 +817,39 @@
       "dep_id": "105",
       "ev_gol": 2,
       "dep_gol": 2
+    },
+    {
+      "id": "401841288",
+      "lig": "bra.1",
+      "tarih": "2026-10-29T22:30Z",
+      "ev": "Atlético-MG",
+      "dep": "Cruzeiro",
+      "ev_id": "7632",
+      "dep_id": "2022",
+      "ev_gol": 0,
+      "dep_gol": 1
+    },
+    {
+      "id": "401841292",
+      "lig": "bra.1",
+      "tarih": "2026-10-29T23:00Z",
+      "ev": "Vasco da Gama",
+      "dep": "Flamengo",
+      "ev_id": "3454",
+      "dep_id": "819",
+      "ev_gol": 1,
+      "dep_gol": 4
+    },
+    {
+      "id": "401841290",
+      "lig": "bra.1",
+      "tarih": "2026-10-30T00:30Z",
+      "ev": "Grêmio",
+      "dep": "Athletico-PR",
+      "ev_id": "6273",
+      "dep_id": "3458",
+      "ev_gol": 2,
+      "dep_gol": 0
     },
     {
       "id": "401888259",
@@ -412,6 +885,17 @@
       "dep_gol": 1
     },
     {
+      "id": "401874738",
+      "lig": "den.1",
+      "tarih": "2026-10-30T18:00Z",
+      "ev": "Lyngby Boldklub",
+      "dep": "Randers FC",
+      "ev_id": "7860",
+      "dep_id": "3132",
+      "ev_gol": 2,
+      "dep_gol": 1
+    },
+    {
       "id": "401876416",
       "lig": "fra.1",
       "tarih": "2026-10-30T18:00Z",
@@ -432,6 +916,28 @@
       "dep_id": "160",
       "ev_gol": 1,
       "dep_gol": 5
+    },
+    {
+      "id": "401843468",
+      "lig": "nor.1",
+      "tarih": "2026-10-30T18:00Z",
+      "ev": "Bodo/Glimt",
+      "dep": "Viking FK",
+      "ev_id": "2980",
+      "dep_id": "510",
+      "ev_gol": 3,
+      "dep_gol": 2
+    },
+    {
+      "id": "401881757",
+      "lig": "aut.1",
+      "tarih": "2026-10-30T18:30Z",
+      "ev": "Grazer AK",
+      "dep": "TSV Hartberg",
+      "ev_id": "21846",
+      "dep_id": "6907",
+      "ev_gol": 0,
+      "dep_gol": 4
     },
     {
       "id": "401876701",
@@ -489,6 +995,50 @@
       "dep_gol": 3
     },
     {
+      "id": "401875869",
+      "lig": "ned.2",
+      "tarih": "2026-10-30T19:00Z",
+      "ev": "Roda JC Kerkrade",
+      "dep": "Jong AZ",
+      "ev_id": "149",
+      "dep_id": "18748",
+      "ev_gol": 2,
+      "dep_gol": 1
+    },
+    {
+      "id": "401875870",
+      "lig": "ned.2",
+      "tarih": "2026-10-30T19:00Z",
+      "ev": "RKC Waalwijk",
+      "dep": "Almere City",
+      "ev_id": "155",
+      "dep_id": "5291",
+      "ev_gol": 1,
+      "dep_gol": 2
+    },
+    {
+      "id": "401875872",
+      "lig": "ned.2",
+      "tarih": "2026-10-30T19:00Z",
+      "ev": "Helmond Sport",
+      "dep": "FC Eindhoven",
+      "ev_id": "3775",
+      "dep_id": "3732",
+      "ev_gol": 3,
+      "dep_gol": 2
+    },
+    {
+      "id": "401875873",
+      "lig": "ned.2",
+      "tarih": "2026-10-30T19:00Z",
+      "ev": "FC Volendam",
+      "dep": "De Graafschap",
+      "ev_id": "2727",
+      "dep_id": "144",
+      "ev_gol": 1,
+      "dep_gol": 2
+    },
+    {
       "id": "401884746",
       "lig": "ger.1",
       "tarih": "2026-10-30T19:30Z",
@@ -500,6 +1050,17 @@
       "dep_gol": 1
     },
     {
+      "id": "401878532",
+      "lig": "sco.2",
+      "tarih": "2026-10-30T19:30Z",
+      "ev": "Stenhousemuir",
+      "dep": "Livingston",
+      "ev_id": "405",
+      "dep_id": "259",
+      "ev_gol": 0,
+      "dep_gol": 3
+    },
+    {
       "id": "401878956",
       "lig": "bel.1",
       "tarih": "2026-10-30T19:45Z",
@@ -509,6 +1070,28 @@
       "dep_id": "570",
       "ev_gol": 2,
       "dep_gol": 4
+    },
+    {
+      "id": "401881283",
+      "lig": "eng.4",
+      "tarih": "2026-10-30T19:45Z",
+      "ev": "Newport County",
+      "dep": "Chesterfield",
+      "ev_id": "635",
+      "dep_id": "343",
+      "ev_gol": 4,
+      "dep_gol": 1
+    },
+    {
+      "id": "401889419",
+      "lig": "eng.5",
+      "tarih": "2026-10-30T19:45Z",
+      "ev": "AFC Fylde",
+      "dep": "AFC Hornchurch",
+      "ev_id": "13884",
+      "dep_id": "10167",
+      "ev_gol": 3,
+      "dep_gol": 1
     },
     {
       "id": "401880190",
@@ -553,6 +1136,61 @@
       "dep_id": "2250",
       "ev_gol": 0,
       "dep_gol": 2
+    },
+    {
+      "id": "401841653",
+      "lig": "arg.1",
+      "tarih": "2026-10-30T22:00Z",
+      "ev": "Huracán",
+      "dep": "Tigre",
+      "ev_id": "10",
+      "dep_id": "7767",
+      "ev_gol": 0,
+      "dep_gol": 2
+    },
+    {
+      "id": "401841655",
+      "lig": "arg.1",
+      "tarih": "2026-10-30T22:00Z",
+      "ev": "Estudiantes de Río Cuarto",
+      "dep": "Gimnasia La Plata",
+      "ev_id": "19685",
+      "dep_id": "9",
+      "ev_gol": 1,
+      "dep_gol": 2
+    },
+    {
+      "id": "401841295",
+      "lig": "bra.1",
+      "tarih": "2026-10-30T23:00Z",
+      "ev": "Corinthians",
+      "dep": "Mirassol",
+      "ev_id": "874",
+      "dep_id": "9169",
+      "ev_gol": 2,
+      "dep_gol": 0
+    },
+    {
+      "id": "401841647",
+      "lig": "arg.1",
+      "tarih": "2026-10-31T00:15Z",
+      "ev": "Sarmiento (Junín)",
+      "dep": "Rosario Central",
+      "ev_id": "10158",
+      "dep_id": "17",
+      "ev_gol": 1,
+      "dep_gol": 2
+    },
+    {
+      "id": "401841648",
+      "lig": "arg.1",
+      "tarih": "2026-10-31T00:15Z",
+      "ev": "Racing Club",
+      "dep": "Aldosivi",
+      "ev_id": "15",
+      "dep_id": "9739",
+      "ev_gol": 2,
+      "dep_gol": 1
     },
     {
       "id": "401888373",
@@ -674,6 +1312,50 @@
       "dep_id": "335",
       "ev_gol": 0,
       "dep_gol": 3
+    },
+    {
+      "id": "401881281",
+      "lig": "eng.4",
+      "tarih": "2026-10-31T12:30Z",
+      "ev": "Port Vale",
+      "dep": "Rochdale",
+      "ev_id": "348",
+      "dep_id": "303",
+      "ev_gol": 4,
+      "dep_gol": 2
+    },
+    {
+      "id": "401881284",
+      "lig": "eng.4",
+      "tarih": "2026-10-31T12:30Z",
+      "ev": "Grimsby Town",
+      "dep": "York City",
+      "ev_id": "386",
+      "dep_id": "315",
+      "ev_gol": 5,
+      "dep_gol": 2
+    },
+    {
+      "id": "401889222",
+      "lig": "eng.5",
+      "tarih": "2026-10-31T12:30Z",
+      "ev": "Forest Green Rovers",
+      "dep": "Harrogate Town",
+      "ev_id": "282",
+      "dep_id": "19262",
+      "ev_gol": 2,
+      "dep_gol": 2
+    },
+    {
+      "id": "401889223",
+      "lig": "eng.5",
+      "tarih": "2026-10-31T12:30Z",
+      "ev": "FC Halifax Town",
+      "dep": "Yeovil Town",
+      "ev_id": "312",
+      "dep_id": "284",
+      "ev_gol": 2,
+      "dep_gol": 0
     },
     {
       "id": "401882820",
@@ -1061,6 +1743,270 @@
       "dep_gol": 1
     },
     {
+      "id": "401881277",
+      "lig": "eng.4",
+      "tarih": "2026-10-31T15:00Z",
+      "ev": "Tranmere Rovers",
+      "dep": "Cheltenham Town",
+      "ev_id": "345",
+      "dep_id": "320",
+      "ev_gol": 3,
+      "dep_gol": 1
+    },
+    {
+      "id": "401881278",
+      "lig": "eng.4",
+      "tarih": "2026-10-31T15:00Z",
+      "ev": "Swindon Town",
+      "dep": "Rotherham United",
+      "ev_id": "341",
+      "dep_id": "402",
+      "ev_gol": 2,
+      "dep_gol": 1
+    },
+    {
+      "id": "401881279",
+      "lig": "eng.4",
+      "tarih": "2026-10-31T15:00Z",
+      "ev": "Shrewsbury Town",
+      "dep": "Gillingham",
+      "ev_id": "302",
+      "dep_id": "389",
+      "ev_gol": 1,
+      "dep_gol": 2
+    },
+    {
+      "id": "401881280",
+      "lig": "eng.4",
+      "tarih": "2026-10-31T15:00Z",
+      "ev": "Salford City",
+      "dep": "Exeter City",
+      "ev_id": "4703",
+      "dep_id": "324",
+      "ev_gol": 2,
+      "dep_gol": 1
+    },
+    {
+      "id": "401881282",
+      "lig": "eng.4",
+      "tarih": "2026-10-31T15:00Z",
+      "ev": "Oldham Athletic",
+      "dep": "Crawley Town",
+      "ev_id": "332",
+      "dep_id": "2594",
+      "ev_gol": 0,
+      "dep_gol": 1
+    },
+    {
+      "id": "401881285",
+      "lig": "eng.4",
+      "tarih": "2026-10-31T15:00Z",
+      "ev": "Fleetwood Town",
+      "dep": "Bristol Rovers",
+      "ev_id": "3891",
+      "dep_id": "308",
+      "ev_gol": 3,
+      "dep_gol": 1
+    },
+    {
+      "id": "401881286",
+      "lig": "eng.4",
+      "tarih": "2026-10-31T15:00Z",
+      "ev": "Crewe Alexandra",
+      "dep": "Barnet",
+      "ev_id": "396",
+      "dep_id": "280",
+      "ev_gol": 1,
+      "dep_gol": 1
+    },
+    {
+      "id": "401881287",
+      "lig": "eng.4",
+      "tarih": "2026-10-31T15:00Z",
+      "ev": "Colchester United",
+      "dep": "Walsall",
+      "ev_id": "339",
+      "dep_id": "401",
+      "ev_gol": 1,
+      "dep_gol": 3
+    },
+    {
+      "id": "401881288",
+      "lig": "eng.4",
+      "tarih": "2026-10-31T15:00Z",
+      "ev": "Accrington Stanley",
+      "dep": "Northampton Town",
+      "ev_id": "2731",
+      "dep_id": "353",
+      "ev_gol": 1,
+      "dep_gol": 1
+    },
+    {
+      "id": "401889214",
+      "lig": "eng.5",
+      "tarih": "2026-10-31T15:00Z",
+      "ev": "Worthing",
+      "dep": "Sutton United",
+      "ev_id": "128663",
+      "dep_id": "3231",
+      "ev_gol": 0,
+      "dep_gol": 3
+    },
+    {
+      "id": "401889215",
+      "lig": "eng.5",
+      "tarih": "2026-10-31T15:00Z",
+      "ev": "Wealdstone",
+      "dep": "Southend United",
+      "ev_id": "3887",
+      "dep_id": "310",
+      "ev_gol": 3,
+      "dep_gol": 2
+    },
+    {
+      "id": "401889216",
+      "lig": "eng.5",
+      "tarih": "2026-10-31T15:00Z",
+      "ev": "Tamworth",
+      "dep": "Woking",
+      "ev_id": "645",
+      "dep_id": "290",
+      "ev_gol": 0,
+      "dep_gol": 1
+    },
+    {
+      "id": "401889217",
+      "lig": "eng.5",
+      "tarih": "2026-10-31T15:00Z",
+      "ev": "Solihull Moors",
+      "dep": "Kidderminster Harriers",
+      "ev_id": "13061",
+      "dep_id": "319",
+      "ev_gol": 2,
+      "dep_gol": 1
+    },
+    {
+      "id": "401889218",
+      "lig": "eng.5",
+      "tarih": "2026-10-31T15:00Z",
+      "ev": "Boreham Wood",
+      "dep": "Hartlepool United",
+      "ev_id": "2595",
+      "dep_id": "323",
+      "ev_gol": 4,
+      "dep_gol": 3
+    },
+    {
+      "id": "401889219",
+      "lig": "eng.5",
+      "tarih": "2026-10-31T15:00Z",
+      "ev": "Barrow",
+      "dep": "Eastleigh",
+      "ev_id": "642",
+      "dep_id": "3897",
+      "ev_gol": 1,
+      "dep_gol": 1
+    },
+    {
+      "id": "401889220",
+      "lig": "eng.5",
+      "tarih": "2026-10-31T15:00Z",
+      "ev": "Altrincham",
+      "dep": "Carlisle United",
+      "ev_id": "633",
+      "dep_id": "322",
+      "ev_gol": 2,
+      "dep_gol": 4
+    },
+    {
+      "id": "401889221",
+      "lig": "eng.5",
+      "tarih": "2026-10-31T15:00Z",
+      "ev": "Aldershot Town",
+      "dep": "Gateshead",
+      "ev_id": "632",
+      "dep_id": "3138",
+      "ev_gol": 1,
+      "dep_gol": 0
+    },
+    {
+      "id": "401843473",
+      "lig": "nor.1",
+      "tarih": "2026-10-31T15:00Z",
+      "ev": "Fredrikstad",
+      "dep": "Rosenborg",
+      "ev_id": "3039",
+      "dep_id": "438",
+      "ev_gol": 0,
+      "dep_gol": 3
+    },
+    {
+      "id": "401878346",
+      "lig": "sco.1",
+      "tarih": "2026-10-31T15:00Z",
+      "ev": "Motherwell",
+      "dep": "St Mirren",
+      "ev_id": "266",
+      "dep_id": "250",
+      "ev_gol": 1,
+      "dep_gol": 0
+    },
+    {
+      "id": "401878347",
+      "lig": "sco.1",
+      "tarih": "2026-10-31T15:00Z",
+      "ev": "Kilmarnock",
+      "dep": "St Johnstone",
+      "ev_id": "260",
+      "dep_id": "267",
+      "ev_gol": 2,
+      "dep_gol": 2
+    },
+    {
+      "id": "401878533",
+      "lig": "sco.2",
+      "tarih": "2026-10-31T15:00Z",
+      "ev": "Partick Thistle",
+      "dep": "Greenock Morton",
+      "ev_id": "247",
+      "dep_id": "411",
+      "ev_gol": 2,
+      "dep_gol": 3
+    },
+    {
+      "id": "401878534",
+      "lig": "sco.2",
+      "tarih": "2026-10-31T15:00Z",
+      "ev": "Dunfermline Athletic",
+      "dep": "Inverness Caledonian Thistle",
+      "ev_id": "265",
+      "dep_id": "253",
+      "ev_gol": 5,
+      "dep_gol": 1
+    },
+    {
+      "id": "401878535",
+      "lig": "sco.2",
+      "tarih": "2026-10-31T15:00Z",
+      "ev": "Ayr United",
+      "dep": "Queen's Park",
+      "ev_id": "248",
+      "dep_id": "422",
+      "ev_gol": 3,
+      "dep_gol": 2
+    },
+    {
+      "id": "401878536",
+      "lig": "sco.2",
+      "tarih": "2026-10-31T15:00Z",
+      "ev": "Arbroath",
+      "dep": "Raith Rovers",
+      "ev_id": "252",
+      "dep_id": "249",
+      "ev_gol": 0,
+      "dep_gol": 4
+    },
+    {
       "id": "401882818",
       "lig": "esp.1",
       "tarih": "2026-10-31T15:15Z",
@@ -1094,6 +2040,17 @@
       "dep_gol": 1
     },
     {
+      "id": "401875868",
+      "lig": "ned.2",
+      "tarih": "2026-10-31T15:30Z",
+      "ev": "MVV Maastricht",
+      "dep": "VVV-Venlo",
+      "ev_id": "3730",
+      "dep_id": "3731",
+      "ev_gol": 1,
+      "dep_gol": 2
+    },
+    {
       "id": "401885405",
       "lig": "por.1",
       "tarih": "2026-10-31T15:30Z",
@@ -1102,6 +2059,17 @@
       "ev_id": "3696",
       "dep_id": "21610",
       "ev_gol": 2,
+      "dep_gol": 1
+    },
+    {
+      "id": "401881756",
+      "lig": "aut.1",
+      "tarih": "2026-10-31T16:00Z",
+      "ev": "SC Rheindorf Altach",
+      "dep": "SV Josko Ried",
+      "ev_id": "4405",
+      "dep_id": "3759",
+      "ev_gol": 1,
       "dep_gol": 1
     },
     {
@@ -1127,6 +2095,17 @@
       "dep_gol": 1
     },
     {
+      "id": "401896738",
+      "lig": "gre.1",
+      "tarih": "2026-10-31T17:00Z",
+      "ev": "Kifisia",
+      "dep": "Olympiacos",
+      "ev_id": "21969",
+      "dep_id": "435",
+      "ev_gol": 2,
+      "dep_gol": 3
+    },
+    {
       "id": "401874990",
       "lig": "ita.1",
       "tarih": "2026-10-31T17:00Z",
@@ -1136,6 +2115,17 @@
       "dep_id": "104",
       "ev_gol": 2,
       "dep_gol": 5
+    },
+    {
+      "id": "401843467",
+      "lig": "nor.1",
+      "tarih": "2026-10-31T17:00Z",
+      "ev": "Aalesund",
+      "dep": "Sandefjord",
+      "ev_id": "3278",
+      "dep_id": "3279",
+      "ev_gol": 3,
+      "dep_gol": 4
     },
     {
       "id": "401878953",
@@ -1158,6 +2148,17 @@
       "dep_id": "384",
       "ev_gol": 2,
       "dep_gol": 0
+    },
+    {
+      "id": "401889213",
+      "lig": "eng.5",
+      "tarih": "2026-10-31T17:30Z",
+      "ev": "Boston United",
+      "dep": "Scunthorpe United",
+      "ev_id": "3256",
+      "dep_id": "313",
+      "ev_gol": 2,
+      "dep_gol": 1
     },
     {
       "id": "401882825",
@@ -1215,6 +2216,17 @@
       "dep_gol": 0
     },
     {
+      "id": "401881760",
+      "lig": "aut.1",
+      "tarih": "2026-10-31T18:30Z",
+      "ev": "LASK Linz",
+      "dep": "WSG Swarovski Tirol",
+      "ev_id": "4411",
+      "dep_id": "18794",
+      "ev_gol": 2,
+      "dep_gol": 1
+    },
+    {
       "id": "401899561",
       "lig": "ita.2",
       "tarih": "2026-10-31T18:30Z",
@@ -1222,6 +2234,17 @@
       "dep": "Virtus Entella",
       "ev_id": "2734",
       "dep_id": "11137",
+      "ev_gol": 2,
+      "dep_gol": 0
+    },
+    {
+      "id": "401841294",
+      "lig": "bra.1",
+      "tarih": "2026-10-31T19:00Z",
+      "ev": "Coritiba",
+      "dep": "Vitória",
+      "ev_id": "3456",
+      "dep_id": "3457",
       "ev_gol": 2,
       "dep_gol": 0
     },
@@ -1292,6 +2315,17 @@
       "dep_gol": 1
     },
     {
+      "id": "401841656",
+      "lig": "arg.1",
+      "tarih": "2026-10-31T20:00Z",
+      "ev": "Deportivo Riestra",
+      "dep": "Talleres (Córdoba)",
+      "ev_id": "17702",
+      "dep_id": "19",
+      "ev_gol": 0,
+      "dep_gol": 3
+    },
+    {
       "id": "401879250",
       "lig": "eng.1",
       "tarih": "2026-10-31T20:00Z",
@@ -1356,6 +2390,28 @@
       "dep_id": "12216",
       "ev_gol": 4,
       "dep_gol": 0
+    },
+    {
+      "id": "401841646",
+      "lig": "arg.1",
+      "tarih": "2026-10-31T22:15Z",
+      "ev": "Vélez Sarsfield",
+      "dep": "San Lorenzo",
+      "ev_id": "21",
+      "dep_id": "18",
+      "ev_gol": 2,
+      "dep_gol": 2
+    },
+    {
+      "id": "401841654",
+      "lig": "arg.1",
+      "tarih": "2026-11-01T00:30Z",
+      "ev": "Estudiantes de La Plata",
+      "dep": "Instituto (Córdoba)",
+      "ev_id": "8",
+      "dep_id": "2975",
+      "ev_gol": 3,
+      "dep_gol": 3
     },
     {
       "id": "401888374",
@@ -1435,6 +2491,28 @@
       "dep_gol": 3
     },
     {
+      "id": "401874491",
+      "lig": "den.1",
+      "tarih": "2026-11-01T13:00Z",
+      "ev": "Viborg FF",
+      "dep": "AC Horsens",
+      "ev_id": "3153",
+      "dep_id": "3585",
+      "ev_gol": 1,
+      "dep_gol": 0
+    },
+    {
+      "id": "401874571",
+      "lig": "den.1",
+      "tarih": "2026-11-01T13:00Z",
+      "ev": "Odense Boldklub",
+      "dep": "Silkeborg IF",
+      "ev_id": "11550",
+      "dep_id": "607",
+      "ev_gol": 4,
+      "dep_gol": 1
+    },
+    {
       "id": "401882821",
       "lig": "esp.1",
       "tarih": "2026-11-01T13:00Z",
@@ -1455,6 +2533,39 @@
       "dep_id": "3747",
       "ev_gol": 0,
       "dep_gol": 2
+    },
+    {
+      "id": "401878349",
+      "lig": "sco.1",
+      "tarih": "2026-11-01T13:00Z",
+      "ev": "Falkirk",
+      "dep": "Celtic",
+      "ev_id": "254",
+      "dep_id": "256",
+      "ev_gol": 2,
+      "dep_gol": 0
+    },
+    {
+      "id": "401842868",
+      "lig": "swe.1",
+      "tarih": "2026-11-01T13:00Z",
+      "ev": "Malmö FF",
+      "dep": "Hammarby IF",
+      "ev_id": "2720",
+      "dep_id": "2495",
+      "ev_gol": 1,
+      "dep_gol": 2
+    },
+    {
+      "id": "401842872",
+      "lig": "swe.1",
+      "tarih": "2026-11-01T13:00Z",
+      "ev": "Djurgården",
+      "dep": "Degerfors IF",
+      "ev_id": "2339",
+      "dep_id": "20856",
+      "ev_gol": 2,
+      "dep_gol": 1
     },
     {
       "id": "401888261",
@@ -1479,6 +2590,28 @@
       "dep_gol": 0
     },
     {
+      "id": "401881759",
+      "lig": "aut.1",
+      "tarih": "2026-11-01T13:30Z",
+      "ev": "Wolfsberger",
+      "dep": "SK Sturm Graz",
+      "ev_id": "13294",
+      "dep_id": "3746",
+      "ev_gol": 1,
+      "dep_gol": 1
+    },
+    {
+      "id": "401881761",
+      "lig": "aut.1",
+      "tarih": "2026-11-01T13:30Z",
+      "ev": "RB Salzburg",
+      "dep": "Austria Lustenau",
+      "ev_id": "2790",
+      "dep_id": "21540",
+      "ev_gol": 5,
+      "dep_gol": 1
+    },
+    {
       "id": "401875558",
       "lig": "ned.1",
       "tarih": "2026-11-01T13:30Z",
@@ -1499,6 +2632,28 @@
       "dep_id": "152",
       "ev_gol": 0,
       "dep_gol": 9
+    },
+    {
+      "id": "401875874",
+      "lig": "ned.2",
+      "tarih": "2026-11-01T13:30Z",
+      "ev": "FC Emmen",
+      "dep": "FC Den Bosch",
+      "ev_id": "3707",
+      "dep_id": "271",
+      "ev_gol": 0,
+      "dep_gol": 5
+    },
+    {
+      "id": "401843474",
+      "lig": "nor.1",
+      "tarih": "2026-11-01T13:30Z",
+      "ev": "SK Brann",
+      "dep": "Molde",
+      "ev_id": "620",
+      "dep_id": "2715",
+      "ev_gol": 3,
+      "dep_gol": 2
     },
     {
       "id": "401880758",
@@ -1600,6 +2755,28 @@
       "dep_gol": 2
     },
     {
+      "id": "401874519",
+      "lig": "den.1",
+      "tarih": "2026-11-01T15:00Z",
+      "ev": "FC Nordsjælland",
+      "dep": "FC Midtjylland",
+      "ev_id": "3101",
+      "dep_id": "572",
+      "ev_gol": 2,
+      "dep_gol": 3
+    },
+    {
+      "id": "401896737",
+      "lig": "gre.1",
+      "tarih": "2026-11-01T15:00Z",
+      "ev": "Levadiakos",
+      "dep": "Aris",
+      "ev_id": "5276",
+      "dep_id": "11553",
+      "ev_gol": 3,
+      "dep_gol": 0
+    },
+    {
       "id": "401882819",
       "lig": "esp.1",
       "tarih": "2026-11-01T15:15Z",
@@ -1633,6 +2810,39 @@
       "dep_gol": 0
     },
     {
+      "id": "401842869",
+      "lig": "swe.1",
+      "tarih": "2026-11-01T15:30Z",
+      "ev": "BK Häcken",
+      "dep": "IFK Göteborg",
+      "ev_id": "7834",
+      "dep_id": "2556",
+      "ev_gol": 1,
+      "dep_gol": 0
+    },
+    {
+      "id": "401842871",
+      "lig": "swe.1",
+      "tarih": "2026-11-01T15:30Z",
+      "ev": "IF Elfsborg",
+      "dep": "Örgryte IS",
+      "ev_id": "529",
+      "dep_id": "131552",
+      "ev_gol": 2,
+      "dep_gol": 1
+    },
+    {
+      "id": "401842873",
+      "lig": "swe.1",
+      "tarih": "2026-11-01T15:30Z",
+      "ev": "Västerås SK",
+      "dep": "IF Brommapojkarna",
+      "ev_id": "22163",
+      "dep_id": "8221",
+      "ev_gol": 1,
+      "dep_gol": 0
+    },
+    {
       "id": "401875557",
       "lig": "ned.1",
       "tarih": "2026-11-01T15:45Z",
@@ -1642,6 +2852,61 @@
       "dep_id": "151",
       "ev_gol": 2,
       "dep_gol": 3
+    },
+    {
+      "id": "401881758",
+      "lig": "aut.1",
+      "tarih": "2026-11-01T16:00Z",
+      "ev": "Austria Vienna",
+      "dep": "Rapid Vienna",
+      "ev_id": "1382",
+      "dep_id": "519",
+      "ev_gol": 0,
+      "dep_gol": 2
+    },
+    {
+      "id": "401896735",
+      "lig": "gre.1",
+      "tarih": "2026-11-01T16:00Z",
+      "ev": "Panetolikos",
+      "dep": "OFI Crete",
+      "ev_id": "11431",
+      "dep_id": "1010",
+      "ev_gol": 0,
+      "dep_gol": 1
+    },
+    {
+      "id": "401843470",
+      "lig": "nor.1",
+      "tarih": "2026-11-01T16:00Z",
+      "ev": "IK Start",
+      "dep": "Lillestrom",
+      "ev_id": "6750",
+      "dep_id": "987",
+      "ev_gol": 0,
+      "dep_gol": 1
+    },
+    {
+      "id": "401843471",
+      "lig": "nor.1",
+      "tarih": "2026-11-01T16:00Z",
+      "ev": "Sarpsborg FK",
+      "dep": "Kristiansund BK",
+      "ev_id": "5002",
+      "dep_id": "6672",
+      "ev_gol": 2,
+      "dep_gol": 4
+    },
+    {
+      "id": "401843472",
+      "lig": "nor.1",
+      "tarih": "2026-11-01T16:00Z",
+      "ev": "KFUM Oslo",
+      "dep": "Hamarkameratene",
+      "ev_id": "22165",
+      "dep_id": "21380",
+      "ev_gol": 2,
+      "dep_gol": 2
     },
     {
       "id": "401888262",
@@ -1710,6 +2975,28 @@
       "dep_gol": 1
     },
     {
+      "id": "401874544",
+      "lig": "den.1",
+      "tarih": "2026-11-01T17:00Z",
+      "ev": "Brøndby IF",
+      "dep": "AGF",
+      "ev_id": "575",
+      "dep_id": "7853",
+      "ev_gol": 2,
+      "dep_gol": 0
+    },
+    {
+      "id": "401896734",
+      "lig": "gre.1",
+      "tarih": "2026-11-01T17:00Z",
+      "ev": "PAOK",
+      "dep": "Asteras Tripoli",
+      "ev_id": "605",
+      "dep_id": "8354",
+      "ev_gol": 2,
+      "dep_gol": 1
+    },
+    {
       "id": "401874968",
       "lig": "ita.1",
       "tarih": "2026-11-01T17:00Z",
@@ -1754,6 +3041,28 @@
       "dep_gol": 1
     },
     {
+      "id": "401896736",
+      "lig": "gre.1",
+      "tarih": "2026-11-01T17:30Z",
+      "ev": "Panathinaikos",
+      "dep": "AEK Athens",
+      "ev_id": "443",
+      "dep_id": "887",
+      "ev_gol": 2,
+      "dep_gol": 0
+    },
+    {
+      "id": "401841658",
+      "lig": "arg.1",
+      "tarih": "2026-11-01T18:00Z",
+      "ev": "Boca Juniors",
+      "dep": "River Plate",
+      "ev_id": "5",
+      "dep_id": "16",
+      "ev_gol": 1,
+      "dep_gol": 0
+    },
+    {
       "id": "401885406",
       "lig": "por.1",
       "tarih": "2026-11-01T18:00Z",
@@ -1785,6 +3094,17 @@
       "dep_id": "131235",
       "ev_gol": 5,
       "dep_gol": 2
+    },
+    {
+      "id": "401843469",
+      "lig": "nor.1",
+      "tarih": "2026-11-01T18:15Z",
+      "ev": "Vålerenga",
+      "dep": "Tromso",
+      "ev_id": "2791",
+      "dep_id": "5270",
+      "ev_gol": 4,
+      "dep_gol": 0
     },
     {
       "id": "401899562",
@@ -1842,6 +3162,39 @@
       "dep_gol": 0
     },
     {
+      "id": "401841645",
+      "lig": "arg.1",
+      "tarih": "2026-11-01T21:30Z",
+      "ev": "Belgrano (Córdoba)",
+      "dep": "Barracas Central",
+      "ev_id": "4",
+      "dep_id": "10060",
+      "ev_gol": 2,
+      "dep_gol": 2
+    },
+    {
+      "id": "401841650",
+      "lig": "arg.1",
+      "tarih": "2026-11-01T21:30Z",
+      "ev": "Newell's Old Boys",
+      "dep": "Unión (Santa Fe)",
+      "ev_id": "14",
+      "dep_id": "20",
+      "ev_gol": 1,
+      "dep_gol": 1
+    },
+    {
+      "id": "401841651",
+      "lig": "arg.1",
+      "tarih": "2026-11-01T23:45Z",
+      "ev": "Lanús",
+      "dep": "Gimnasia (Mendoza)",
+      "ev_id": "12",
+      "dep_id": "11972",
+      "ev_gol": 1,
+      "dep_gol": 1
+    },
+    {
       "id": "401883144",
       "lig": "esp.2",
       "tarih": "2026-11-02T13:00Z",
@@ -1862,6 +3215,17 @@
       "dep_id": "98",
       "ev_gol": 2,
       "dep_gol": 3
+    },
+    {
+      "id": "401896739",
+      "lig": "gre.1",
+      "tarih": "2026-11-02T16:00Z",
+      "ev": "Atromitos",
+      "dep": "Volos NFC",
+      "ev_id": "6790",
+      "dep_id": "20043",
+      "ev_gol": 3,
+      "dep_gol": 0
     },
     {
       "id": "401888260",
@@ -1886,6 +3250,17 @@
       "dep_gol": 3
     },
     {
+      "id": "401896813",
+      "lig": "gre.1",
+      "tarih": "2026-11-02T17:30Z",
+      "ev": "Kalamata",
+      "dep": "Iraklis",
+      "ev_id": "132429",
+      "dep_id": "2575",
+      "ev_gol": 1,
+      "dep_gol": 1
+    },
+    {
       "id": "401874963",
       "lig": "ita.1",
       "tarih": "2026-11-02T17:30Z",
@@ -1895,6 +3270,83 @@
       "dep_id": "109",
       "ev_gol": 2,
       "dep_gol": 4
+    },
+    {
+      "id": "401874494",
+      "lig": "den.1",
+      "tarih": "2026-11-02T18:00Z",
+      "ev": "Sønderjyske Fodbold",
+      "dep": "F.C. København",
+      "ev_id": "8118",
+      "dep_id": "909",
+      "ev_gol": 0,
+      "dep_gol": 2
+    },
+    {
+      "id": "401842867",
+      "lig": "swe.1",
+      "tarih": "2026-11-02T18:00Z",
+      "ev": "Mjällby AIF",
+      "dep": "Kalmar FF",
+      "ev_id": "20301",
+      "dep_id": "3052",
+      "ev_gol": 0,
+      "dep_gol": 0
+    },
+    {
+      "id": "401842870",
+      "lig": "swe.1",
+      "tarih": "2026-11-02T18:00Z",
+      "ev": "GAIS",
+      "dep": "AIK",
+      "ev_id": "8222",
+      "dep_id": "994",
+      "ev_gol": 2,
+      "dep_gol": 1
+    },
+    {
+      "id": "401875865",
+      "lig": "ned.2",
+      "tarih": "2026-11-02T19:00Z",
+      "ev": "Jong PSV",
+      "dep": "NAC Breda",
+      "ev_id": "9983",
+      "dep_id": "141",
+      "ev_gol": 0,
+      "dep_gol": 2
+    },
+    {
+      "id": "401875866",
+      "lig": "ned.2",
+      "tarih": "2026-11-02T19:00Z",
+      "ev": "Jong FC Utrecht",
+      "dep": "FC Dordrecht",
+      "ev_id": "18278",
+      "dep_id": "4426",
+      "ev_gol": 3,
+      "dep_gol": 2
+    },
+    {
+      "id": "401875867",
+      "lig": "ned.2",
+      "tarih": "2026-11-02T19:00Z",
+      "ev": "Jong Ajax",
+      "dep": "Vitesse",
+      "ev_id": "10597",
+      "dep_id": "154",
+      "ev_gol": 1,
+      "dep_gol": 1
+    },
+    {
+      "id": "401875871",
+      "lig": "ned.2",
+      "tarih": "2026-11-02T19:00Z",
+      "ev": "Heracles Almelo",
+      "dep": "TOP Oss",
+      "ev_id": "3708",
+      "dep_id": "3728",
+      "ev_gol": 2,
+      "dep_gol": 0
     },
     {
       "id": "401876419",
@@ -1993,6 +3445,72 @@
       "ev_id": "3699",
       "dep_id": "5309",
       "ev_gol": 0,
+      "dep_gol": 0
+    },
+    {
+      "id": "401841649",
+      "lig": "arg.1",
+      "tarih": "2026-11-02T22:00Z",
+      "ev": "Platense",
+      "dep": "Central Córdoba (Santiago del Estero)",
+      "ev_id": "7764",
+      "dep_id": "11989",
+      "ev_gol": 2,
+      "dep_gol": 0
+    },
+    {
+      "id": "401841657",
+      "lig": "arg.1",
+      "tarih": "2026-11-02T22:00Z",
+      "ev": "Defensa y Justicia",
+      "dep": "Independiente",
+      "ev_id": "8950",
+      "dep_id": "11",
+      "ev_gol": 1,
+      "dep_gol": 1
+    },
+    {
+      "id": "401841299",
+      "lig": "bra.1",
+      "tarih": "2026-11-02T23:00Z",
+      "ev": "Red Bull Bragantino",
+      "dep": "Santos",
+      "ev_id": "6079",
+      "dep_id": "2674",
+      "ev_gol": 2,
+      "dep_gol": 1
+    },
+    {
+      "id": "401841644",
+      "lig": "arg.1",
+      "tarih": "2026-11-03T00:15Z",
+      "ev": "Atlético Tucumán",
+      "dep": "Argentinos Juniors",
+      "ev_id": "9785",
+      "dep_id": "3",
+      "ev_gol": 1,
+      "dep_gol": 2
+    },
+    {
+      "id": "401841652",
+      "lig": "arg.1",
+      "tarih": "2026-11-03T00:15Z",
+      "ev": "Independiente Rivadavia",
+      "dep": "Banfield",
+      "ev_id": "9744",
+      "dep_id": "235",
+      "ev_gol": 3,
+      "dep_gol": 1
+    },
+    {
+      "id": "401842866",
+      "lig": "swe.1",
+      "tarih": "2026-11-03T18:00Z",
+      "ev": "IK Sirius",
+      "dep": "Halmstads BK",
+      "ev_id": "8547",
+      "dep_id": "3017",
+      "ev_gol": 2,
       "dep_gol": 0
     },
     {
@@ -2095,6 +3613,17 @@
       "dep_gol": 1
     },
     {
+      "id": "401881340",
+      "lig": "eng.4",
+      "tarih": "2026-11-03T19:45Z",
+      "ev": "Northampton Town",
+      "dep": "Oldham Athletic",
+      "ev_id": "353",
+      "dep_id": "332",
+      "ev_gol": 0,
+      "dep_gol": 1
+    },
+    {
       "id": "401880177",
       "lig": "eng.2",
       "tarih": "2026-11-03T20:00Z",
@@ -2114,6 +3643,28 @@
       "ev_id": "392",
       "dep_id": "391",
       "ev_gol": 3,
+      "dep_gol": 0
+    },
+    {
+      "id": "401841304",
+      "lig": "bra.1",
+      "tarih": "2026-11-03T22:30Z",
+      "ev": "Chapecoense",
+      "dep": "Mirassol",
+      "ev_id": "9318",
+      "dep_id": "9169",
+      "ev_gol": 1,
+      "dep_gol": 2
+    },
+    {
+      "id": "401841301",
+      "lig": "bra.1",
+      "tarih": "2026-11-04T00:30Z",
+      "ev": "Internacional",
+      "dep": "Coritiba",
+      "ev_id": "1936",
+      "dep_id": "3456",
+      "ev_gol": 1,
       "dep_gol": 0
     },
     {
@@ -2172,6 +3723,94 @@
       "dep_gol": 2
     },
     {
+      "id": "401841306",
+      "lig": "bra.1",
+      "tarih": "2026-11-04T22:30Z",
+      "ev": "Athletico-PR",
+      "dep": "Vasco da Gama",
+      "ev_id": "3458",
+      "dep_id": "3454",
+      "ev_gol": 1,
+      "dep_gol": 3
+    },
+    {
+      "id": "401841307",
+      "lig": "bra.1",
+      "tarih": "2026-11-04T22:30Z",
+      "ev": "Flamengo",
+      "dep": "Grêmio",
+      "ev_id": "819",
+      "dep_id": "6273",
+      "ev_gol": 3,
+      "dep_gol": 1
+    },
+    {
+      "id": "401841298",
+      "lig": "bra.1",
+      "tarih": "2026-11-05T00:30Z",
+      "ev": "São Paulo",
+      "dep": "Corinthians",
+      "ev_id": "2026",
+      "dep_id": "874",
+      "ev_gol": 0,
+      "dep_gol": 0
+    },
+    {
+      "id": "401841305",
+      "lig": "bra.1",
+      "tarih": "2026-11-05T00:30Z",
+      "ev": "Botafogo",
+      "dep": "Atlético-MG",
+      "ev_id": "6086",
+      "dep_id": "7632",
+      "ev_gol": 1,
+      "dep_gol": 0
+    },
+    {
+      "id": "401841659",
+      "lig": "arg.1",
+      "tarih": "2026-11-05T18:00Z",
+      "ev": "Aldosivi",
+      "dep": "River Plate",
+      "ev_id": "9739",
+      "dep_id": "16",
+      "ev_gol": 0,
+      "dep_gol": 2
+    },
+    {
+      "id": "401841667",
+      "lig": "arg.1",
+      "tarih": "2026-11-05T22:15Z",
+      "ev": "Gimnasia La Plata",
+      "dep": "Belgrano (Córdoba)",
+      "ev_id": "9",
+      "dep_id": "4",
+      "ev_gol": 2,
+      "dep_gol": 1
+    },
+    {
+      "id": "401841300",
+      "lig": "bra.1",
+      "tarih": "2026-11-05T22:30Z",
+      "ev": "Palmeiras",
+      "dep": "Remo",
+      "ev_id": "2029",
+      "dep_id": "4936",
+      "ev_gol": 6,
+      "dep_gol": 1
+    },
+    {
+      "id": "401841303",
+      "lig": "bra.1",
+      "tarih": "2026-11-06T00:30Z",
+      "ev": "Cruzeiro",
+      "dep": "Bahia",
+      "ev_id": "2022",
+      "dep_id": "9967",
+      "ev_gol": 3,
+      "dep_gol": 2
+    },
+    {
       "id": "401888256",
       "lig": "tur.1",
       "tarih": "2026-11-06T17:00Z",
@@ -2202,6 +3841,50 @@
       "ev_id": "7017",
       "dep_id": "3070",
       "ev_gol": 3,
+      "dep_gol": 0
+    },
+    {
+      "id": "401841670",
+      "lig": "arg.1",
+      "tarih": "2026-11-06T18:00Z",
+      "ev": "Barracas Central",
+      "dep": "Racing Club",
+      "ev_id": "10060",
+      "dep_id": "15",
+      "ev_gol": 2,
+      "dep_gol": 0
+    },
+    {
+      "id": "401874537",
+      "lig": "den.1",
+      "tarih": "2026-11-06T18:00Z",
+      "ev": "Silkeborg IF",
+      "dep": "Lyngby Boldklub",
+      "ev_id": "607",
+      "dep_id": "7860",
+      "ev_gol": 1,
+      "dep_gol": 0
+    },
+    {
+      "id": "401842876",
+      "lig": "swe.1",
+      "tarih": "2026-11-06T18:00Z",
+      "ev": "Hammarby IF",
+      "dep": "IF Elfsborg",
+      "ev_id": "2495",
+      "dep_id": "529",
+      "ev_gol": 4,
+      "dep_gol": 1
+    },
+    {
+      "id": "401881754",
+      "lig": "aut.1",
+      "tarih": "2026-11-06T18:30Z",
+      "ev": "Rapid Vienna",
+      "dep": "Wolfsberger",
+      "ev_id": "519",
+      "dep_id": "13294",
+      "ev_gol": 6,
       "dep_gol": 0
     },
     {
@@ -2282,6 +3965,83 @@
       "dep_gol": 1
     },
     {
+      "id": "401875858",
+      "lig": "ned.2",
+      "tarih": "2026-11-06T19:00Z",
+      "ev": "VVV-Venlo",
+      "dep": "Jong PSV",
+      "ev_id": "3731",
+      "dep_id": "9983",
+      "ev_gol": 1,
+      "dep_gol": 1
+    },
+    {
+      "id": "401875859",
+      "lig": "ned.2",
+      "tarih": "2026-11-06T19:00Z",
+      "ev": "TOP Oss",
+      "dep": "RKC Waalwijk",
+      "ev_id": "3728",
+      "dep_id": "155",
+      "ev_gol": 1,
+      "dep_gol": 1
+    },
+    {
+      "id": "401875860",
+      "lig": "ned.2",
+      "tarih": "2026-11-06T19:00Z",
+      "ev": "Jong AZ",
+      "dep": "Almere City",
+      "ev_id": "18748",
+      "dep_id": "5291",
+      "ev_gol": 1,
+      "dep_gol": 3
+    },
+    {
+      "id": "401875861",
+      "lig": "ned.2",
+      "tarih": "2026-11-06T19:00Z",
+      "ev": "Heracles Almelo",
+      "dep": "Roda JC Kerkrade",
+      "ev_id": "3708",
+      "dep_id": "149",
+      "ev_gol": 5,
+      "dep_gol": 1
+    },
+    {
+      "id": "401875862",
+      "lig": "ned.2",
+      "tarih": "2026-11-06T19:00Z",
+      "ev": "Helmond Sport",
+      "dep": "FC Volendam",
+      "ev_id": "3775",
+      "dep_id": "2727",
+      "ev_gol": 2,
+      "dep_gol": 3
+    },
+    {
+      "id": "401875863",
+      "lig": "ned.2",
+      "tarih": "2026-11-06T19:00Z",
+      "ev": "FC Eindhoven",
+      "dep": "Jong Ajax",
+      "ev_id": "3732",
+      "dep_id": "10597",
+      "ev_gol": 0,
+      "dep_gol": 3
+    },
+    {
+      "id": "401875864",
+      "lig": "ned.2",
+      "tarih": "2026-11-06T19:00Z",
+      "ev": "FC Dordrecht",
+      "dep": "NAC Breda",
+      "ev_id": "4426",
+      "dep_id": "141",
+      "ev_gol": 0,
+      "dep_gol": 0
+    },
+    {
       "id": "401884739",
       "lig": "ger.1",
       "tarih": "2026-11-06T19:30Z",
@@ -2302,6 +4062,17 @@
       "dep_id": "2923",
       "ev_gol": 1,
       "dep_gol": 1
+    },
+    {
+      "id": "401878527",
+      "lig": "sco.2",
+      "tarih": "2026-11-06T19:30Z",
+      "ev": "Raith Rovers",
+      "dep": "Dunfermline Athletic",
+      "ev_id": "249",
+      "dep_id": "265",
+      "ev_gol": 0,
+      "dep_gol": 0
     },
     {
       "id": "401878951",
@@ -2377,6 +4148,72 @@
       "dep": "Arouca",
       "ev_id": "12698",
       "dep_id": "15784",
+      "ev_gol": 1,
+      "dep_gol": 0
+    },
+    {
+      "id": "401841660",
+      "lig": "arg.1",
+      "tarih": "2026-11-06T22:15Z",
+      "ev": "Unión (Santa Fe)",
+      "dep": "Vélez Sarsfield",
+      "ev_id": "20",
+      "dep_id": "21",
+      "ev_gol": 2,
+      "dep_gol": 0
+    },
+    {
+      "id": "401841662",
+      "lig": "arg.1",
+      "tarih": "2026-11-06T22:15Z",
+      "ev": "San Lorenzo",
+      "dep": "Platense",
+      "ev_id": "18",
+      "dep_id": "7764",
+      "ev_gol": 0,
+      "dep_gol": 2
+    },
+    {
+      "id": "401841665",
+      "lig": "arg.1",
+      "tarih": "2026-11-06T22:15Z",
+      "ev": "Independiente",
+      "dep": "Deportivo Riestra",
+      "ev_id": "11",
+      "dep_id": "17702",
+      "ev_gol": 2,
+      "dep_gol": 1
+    },
+    {
+      "id": "401841302",
+      "lig": "bra.1",
+      "tarih": "2026-11-06T23:00Z",
+      "ev": "Vitória",
+      "dep": "Fluminense",
+      "ev_id": "3457",
+      "dep_id": "3445",
+      "ev_gol": 0,
+      "dep_gol": 3
+    },
+    {
+      "id": "401841671",
+      "lig": "arg.1",
+      "tarih": "2026-11-07T01:00Z",
+      "ev": "Banfield",
+      "dep": "Atlético Tucumán",
+      "ev_id": "235",
+      "dep_id": "9785",
+      "ev_gol": 2,
+      "dep_gol": 2
+    },
+    {
+      "id": "401841673",
+      "lig": "arg.1",
+      "tarih": "2026-11-07T01:00Z",
+      "ev": "Tigre",
+      "dep": "Sarmiento (Junín)",
+      "ev_id": "7767",
+      "dep_id": "10158",
       "ev_gol": 1,
       "dep_gol": 0
     },
@@ -2744,6 +4581,83 @@
       "dep_gol": 1
     },
     {
+      "id": "401896731",
+      "lig": "gre.1",
+      "tarih": "2026-11-07T15:00Z",
+      "ev": "Volos NFC",
+      "dep": "Kifisia",
+      "ev_id": "20043",
+      "dep_id": "21969",
+      "ev_gol": 1,
+      "dep_gol": 3
+    },
+    {
+      "id": "401878341",
+      "lig": "sco.1",
+      "tarih": "2026-11-07T15:00Z",
+      "ev": "St Johnstone",
+      "dep": "Dundee",
+      "ev_id": "267",
+      "dep_id": "261",
+      "ev_gol": 2,
+      "dep_gol": 1
+    },
+    {
+      "id": "401878342",
+      "lig": "sco.1",
+      "tarih": "2026-11-07T15:00Z",
+      "ev": "Dundee United",
+      "dep": "Motherwell",
+      "ev_id": "264",
+      "dep_id": "266",
+      "ev_gol": 1,
+      "dep_gol": 1
+    },
+    {
+      "id": "401878528",
+      "lig": "sco.2",
+      "tarih": "2026-11-07T15:00Z",
+      "ev": "Queen's Park",
+      "dep": "Partick Thistle",
+      "ev_id": "422",
+      "dep_id": "247",
+      "ev_gol": 0,
+      "dep_gol": 1
+    },
+    {
+      "id": "401878529",
+      "lig": "sco.2",
+      "tarih": "2026-11-07T15:00Z",
+      "ev": "Inverness Caledonian Thistle",
+      "dep": "Livingston",
+      "ev_id": "253",
+      "dep_id": "259",
+      "ev_gol": 1,
+      "dep_gol": 1
+    },
+    {
+      "id": "401878530",
+      "lig": "sco.2",
+      "tarih": "2026-11-07T15:00Z",
+      "ev": "Greenock Morton",
+      "dep": "Stenhousemuir",
+      "ev_id": "411",
+      "dep_id": "405",
+      "ev_gol": 4,
+      "dep_gol": 3
+    },
+    {
+      "id": "401878531",
+      "lig": "sco.2",
+      "tarih": "2026-11-07T15:00Z",
+      "ev": "Arbroath",
+      "dep": "Ayr United",
+      "ev_id": "252",
+      "dep_id": "248",
+      "ev_gol": 4,
+      "dep_gol": 1
+    },
+    {
       "id": "401882813",
       "lig": "esp.1",
       "tarih": "2026-11-07T15:15Z",
@@ -2775,6 +4689,28 @@
       "dep_id": "3735",
       "ev_gol": 2,
       "dep_gol": 2
+    },
+    {
+      "id": "401875857",
+      "lig": "ned.2",
+      "tarih": "2026-11-07T15:30Z",
+      "ev": "FC Den Bosch",
+      "dep": "Jong FC Utrecht",
+      "ev_id": "271",
+      "dep_id": "18278",
+      "ev_gol": 1,
+      "dep_gol": 1
+    },
+    {
+      "id": "401881750",
+      "lig": "aut.1",
+      "tarih": "2026-11-07T16:00Z",
+      "ev": "Austria Lustenau",
+      "dep": "Grazer AK",
+      "ev_id": "21540",
+      "dep_id": "21846",
+      "ev_gol": 2,
+      "dep_gol": 1
     },
     {
       "id": "401888252",
@@ -2810,6 +4746,39 @@
       "dep_gol": 0
     },
     {
+      "id": "401842878",
+      "lig": "swe.1",
+      "tarih": "2026-11-07T16:30Z",
+      "ev": "Degerfors IF",
+      "dep": "GAIS",
+      "ev_id": "20856",
+      "dep_id": "8222",
+      "ev_gol": 1,
+      "dep_gol": 2
+    },
+    {
+      "id": "401842881",
+      "lig": "swe.1",
+      "tarih": "2026-11-07T16:30Z",
+      "ev": "Örgryte IS",
+      "dep": "Västerås SK",
+      "ev_id": "131552",
+      "dep_id": "22163",
+      "ev_gol": 0,
+      "dep_gol": 0
+    },
+    {
+      "id": "401874499",
+      "lig": "den.1",
+      "tarih": "2026-11-07T17:00Z",
+      "ev": "Odense Boldklub",
+      "dep": "Viborg FF",
+      "ev_id": "11550",
+      "dep_id": "3153",
+      "ev_gol": 1,
+      "dep_gol": 2
+    },
+    {
       "id": "401874974",
       "lig": "ita.1",
       "tarih": "2026-11-07T17:00Z",
@@ -2819,6 +4788,17 @@
       "dep_id": "107",
       "ev_gol": 1,
       "dep_gol": 2
+    },
+    {
+      "id": "401843478",
+      "lig": "nor.1",
+      "tarih": "2026-11-07T17:00Z",
+      "ev": "Rosenborg",
+      "dep": "IK Start",
+      "ev_id": "438",
+      "dep_id": "6750",
+      "ev_gol": 4,
+      "dep_gol": 1
     },
     {
       "id": "401878949",
@@ -2887,6 +4867,17 @@
       "dep_gol": 0
     },
     {
+      "id": "401896732",
+      "lig": "gre.1",
+      "tarih": "2026-11-07T17:30Z",
+      "ev": "Aris",
+      "dep": "Panetolikos",
+      "ev_id": "11553",
+      "dep_id": "11431",
+      "ev_gol": 3,
+      "dep_gol": 0
+    },
+    {
       "id": "401875552",
       "lig": "ned.1",
       "tarih": "2026-11-07T17:45Z",
@@ -2895,6 +4886,39 @@
       "ev_id": "2726",
       "dep_id": "151",
       "ev_gol": 3,
+      "dep_gol": 1
+    },
+    {
+      "id": "401878344",
+      "lig": "sco.1",
+      "tarih": "2026-11-07T17:45Z",
+      "ev": "Aberdeen",
+      "dep": "Hibernian",
+      "ev_id": "263",
+      "dep_id": "258",
+      "ev_gol": 0,
+      "dep_gol": 4
+    },
+    {
+      "id": "401841661",
+      "lig": "arg.1",
+      "tarih": "2026-11-07T18:00Z",
+      "ev": "Talleres (Córdoba)",
+      "dep": "Estudiantes de La Plata",
+      "ev_id": "19",
+      "dep_id": "8",
+      "ev_gol": 1,
+      "dep_gol": 1
+    },
+    {
+      "id": "401841666",
+      "lig": "arg.1",
+      "tarih": "2026-11-07T18:00Z",
+      "ev": "Gimnasia (Mendoza)",
+      "dep": "Independiente Rivadavia",
+      "ev_id": "11972",
+      "dep_id": "9744",
+      "ev_gol": 1,
       "dep_gol": 1
     },
     {
@@ -2918,6 +4942,17 @@
       "dep_id": "21581",
       "ev_gol": 1,
       "dep_gol": 1
+    },
+    {
+      "id": "401881752",
+      "lig": "aut.1",
+      "tarih": "2026-11-07T18:30Z",
+      "ev": "SV Josko Ried",
+      "dep": "LASK Linz",
+      "ev_id": "3759",
+      "dep_id": "4411",
+      "ev_gol": 2,
+      "dep_gol": 4
     },
     {
       "id": "401899558",
@@ -3019,6 +5054,17 @@
       "dep_gol": 1
     },
     {
+      "id": "401878340",
+      "lig": "sco.1",
+      "tarih": "2026-11-07T20:00Z",
+      "ev": "St Mirren",
+      "dep": "Rangers",
+      "ev_id": "250",
+      "dep_id": "257",
+      "ev_gol": 0,
+      "dep_gol": 2
+    },
+    {
       "id": "401876407",
       "lig": "fra.1",
       "tarih": "2026-11-07T20:05Z",
@@ -3028,6 +5074,39 @@
       "dep_id": "170",
       "ev_gol": 1,
       "dep_gol": 0
+    },
+    {
+      "id": "401841663",
+      "lig": "arg.1",
+      "tarih": "2026-11-07T20:30Z",
+      "ev": "Rosario Central",
+      "dep": "Estudiantes de Río Cuarto",
+      "ev_id": "17",
+      "dep_id": "19685",
+      "ev_gol": 2,
+      "dep_gol": 0
+    },
+    {
+      "id": "401841669",
+      "lig": "arg.1",
+      "tarih": "2026-11-07T20:30Z",
+      "ev": "Boca Juniors",
+      "dep": "Defensa y Justicia",
+      "ev_id": "5",
+      "dep_id": "8950",
+      "ev_gol": 1,
+      "dep_gol": 0
+    },
+    {
+      "id": "401841672",
+      "lig": "arg.1",
+      "tarih": "2026-11-07T20:30Z",
+      "ev": "Argentinos Juniors",
+      "dep": "Huracán",
+      "ev_id": "3",
+      "dep_id": "10",
+      "ev_gol": 0,
+      "dep_gol": 2
     },
     {
       "id": "401885395",
@@ -3041,6 +5120,17 @@
       "dep_gol": 0
     },
     {
+      "id": "401841664",
+      "lig": "arg.1",
+      "tarih": "2026-11-08T01:00Z",
+      "ev": "Instituto (Córdoba)",
+      "dep": "Newell's Old Boys",
+      "ev_id": "2975",
+      "dep_id": "14",
+      "ev_gol": 2,
+      "dep_gol": 2
+    },
+    {
       "id": "401888253",
       "lig": "tur.1",
       "tarih": "2026-11-08T10:30Z",
@@ -3050,6 +5140,17 @@
       "dep_id": "19267",
       "ev_gol": 2,
       "dep_gol": 1
+    },
+    {
+      "id": "401874488",
+      "lig": "den.1",
+      "tarih": "2026-11-08T11:00Z",
+      "ev": "F.C. København",
+      "dep": "Brøndby IF",
+      "ev_id": "909",
+      "dep_id": "575",
+      "ev_gol": 1,
+      "dep_gol": 0
     },
     {
       "id": "401875551",
@@ -3118,6 +5219,17 @@
       "dep_gol": 2
     },
     {
+      "id": "401874570",
+      "lig": "den.1",
+      "tarih": "2026-11-08T13:00Z",
+      "ev": "AGF",
+      "dep": "AC Horsens",
+      "ev_id": "7853",
+      "dep_id": "3585",
+      "ev_gol": 2,
+      "dep_gol": 0
+    },
+    {
       "id": "401882814",
       "lig": "esp.1",
       "tarih": "2026-11-08T13:00Z",
@@ -3127,6 +5239,28 @@
       "dep_id": "244",
       "ev_gol": 0,
       "dep_gol": 2
+    },
+    {
+      "id": "401842875",
+      "lig": "swe.1",
+      "tarih": "2026-11-08T13:00Z",
+      "ev": "IFK Göteborg",
+      "dep": "Malmö FF",
+      "ev_id": "2556",
+      "dep_id": "2720",
+      "ev_gol": 0,
+      "dep_gol": 0
+    },
+    {
+      "id": "401842877",
+      "lig": "swe.1",
+      "tarih": "2026-11-08T13:00Z",
+      "ev": "Halmstads BK",
+      "dep": "Djurgården",
+      "ev_id": "3017",
+      "dep_id": "2339",
+      "ev_gol": 2,
+      "dep_gol": 1
     },
     {
       "id": "401888372",
@@ -3140,6 +5274,28 @@
       "dep_gol": 5
     },
     {
+      "id": "401881751",
+      "lig": "aut.1",
+      "tarih": "2026-11-08T13:30Z",
+      "ev": "WSG Swarovski Tirol",
+      "dep": "Austria Vienna",
+      "ev_id": "18794",
+      "dep_id": "1382",
+      "ev_gol": 1,
+      "dep_gol": 1
+    },
+    {
+      "id": "401881753",
+      "lig": "aut.1",
+      "tarih": "2026-11-08T13:30Z",
+      "ev": "TSV Hartberg",
+      "dep": "SC Rheindorf Altach",
+      "ev_id": "6907",
+      "dep_id": "4405",
+      "ev_gol": 3,
+      "dep_gol": 0
+    },
+    {
       "id": "401875550",
       "lig": "ned.1",
       "tarih": "2026-11-08T13:30Z",
@@ -3148,6 +5304,17 @@
       "ev_id": "152",
       "dep_id": "139",
       "ev_gol": 2,
+      "dep_gol": 2
+    },
+    {
+      "id": "401843476",
+      "lig": "nor.1",
+      "tarih": "2026-11-08T13:30Z",
+      "ev": "Tromso",
+      "dep": "Bodo/Glimt",
+      "ev_id": "5270",
+      "dep_id": "2980",
+      "ev_gol": 0,
       "dep_gol": 2
     },
     {
@@ -3261,6 +5428,50 @@
       "dep_gol": 0
     },
     {
+      "id": "401874562",
+      "lig": "den.1",
+      "tarih": "2026-11-08T15:00Z",
+      "ev": "Randers FC",
+      "dep": "FC Nordsjælland",
+      "ev_id": "3132",
+      "dep_id": "3101",
+      "ev_gol": 1,
+      "dep_gol": 6
+    },
+    {
+      "id": "401896733",
+      "lig": "gre.1",
+      "tarih": "2026-11-08T15:00Z",
+      "ev": "AEK Athens",
+      "dep": "Levadiakos",
+      "ev_id": "887",
+      "dep_id": "5276",
+      "ev_gol": 2,
+      "dep_gol": 1
+    },
+    {
+      "id": "401896812",
+      "lig": "gre.1",
+      "tarih": "2026-11-08T15:00Z",
+      "ev": "Asteras Tripoli",
+      "dep": "Kalamata",
+      "ev_id": "8354",
+      "dep_id": "132429",
+      "ev_gol": 1,
+      "dep_gol": 1
+    },
+    {
+      "id": "401878339",
+      "lig": "sco.1",
+      "tarih": "2026-11-08T15:00Z",
+      "ev": "Heart of Midlothian",
+      "dep": "Falkirk",
+      "ev_id": "262",
+      "dep_id": "254",
+      "ev_gol": 2,
+      "dep_gol": 5
+    },
+    {
       "id": "401882810",
       "lig": "esp.1",
       "tarih": "2026-11-08T15:15Z",
@@ -3283,6 +5494,17 @@
       "dep_gol": 1
     },
     {
+      "id": "401896811",
+      "lig": "gre.1",
+      "tarih": "2026-11-08T15:30Z",
+      "ev": "Iraklis",
+      "dep": "Panathinaikos",
+      "ev_id": "2575",
+      "dep_id": "443",
+      "ev_gol": 1,
+      "dep_gol": 2
+    },
+    {
       "id": "401885396",
       "lig": "por.1",
       "tarih": "2026-11-08T15:30Z",
@@ -3303,6 +5525,39 @@
       "dep_id": "21607",
       "ev_gol": 1,
       "dep_gol": 0
+    },
+    {
+      "id": "401842874",
+      "lig": "swe.1",
+      "tarih": "2026-11-08T15:30Z",
+      "ev": "Kalmar FF",
+      "dep": "IK Sirius",
+      "ev_id": "3052",
+      "dep_id": "8547",
+      "ev_gol": 1,
+      "dep_gol": 0
+    },
+    {
+      "id": "401842879",
+      "lig": "swe.1",
+      "tarih": "2026-11-08T15:30Z",
+      "ev": "IF Brommapojkarna",
+      "dep": "Mjällby AIF",
+      "ev_id": "8221",
+      "dep_id": "20301",
+      "ev_gol": 0,
+      "dep_gol": 0
+    },
+    {
+      "id": "401842880",
+      "lig": "swe.1",
+      "tarih": "2026-11-08T15:30Z",
+      "ev": "AIK",
+      "dep": "BK Häcken",
+      "ev_id": "994",
+      "dep_id": "7834",
+      "ev_gol": 3,
+      "dep_gol": 2
     },
     {
       "id": "401888254",
@@ -3336,6 +5591,83 @@
       "dep_id": "148",
       "ev_gol": 2,
       "dep_gol": 5
+    },
+    {
+      "id": "401875855",
+      "lig": "ned.2",
+      "tarih": "2026-11-08T15:45Z",
+      "ev": "FC Emmen",
+      "dep": "MVV Maastricht",
+      "ev_id": "3707",
+      "dep_id": "3730",
+      "ev_gol": 0,
+      "dep_gol": 2
+    },
+    {
+      "id": "401881755",
+      "lig": "aut.1",
+      "tarih": "2026-11-08T16:00Z",
+      "ev": "SK Sturm Graz",
+      "dep": "RB Salzburg",
+      "ev_id": "3746",
+      "dep_id": "2790",
+      "ev_gol": 3,
+      "dep_gol": 4
+    },
+    {
+      "id": "401843477",
+      "lig": "nor.1",
+      "tarih": "2026-11-08T16:00Z",
+      "ev": "Sandefjord",
+      "dep": "Molde",
+      "ev_id": "3279",
+      "dep_id": "2715",
+      "ev_gol": 5,
+      "dep_gol": 5
+    },
+    {
+      "id": "401843479",
+      "lig": "nor.1",
+      "tarih": "2026-11-08T16:00Z",
+      "ev": "Lillestrom",
+      "dep": "Aalesund",
+      "ev_id": "987",
+      "dep_id": "3278",
+      "ev_gol": 3,
+      "dep_gol": 2
+    },
+    {
+      "id": "401843481",
+      "lig": "nor.1",
+      "tarih": "2026-11-08T16:00Z",
+      "ev": "Hamarkameratene",
+      "dep": "Sarpsborg FK",
+      "ev_id": "21380",
+      "dep_id": "5002",
+      "ev_gol": 3,
+      "dep_gol": 0
+    },
+    {
+      "id": "401843482",
+      "lig": "nor.1",
+      "tarih": "2026-11-08T16:00Z",
+      "ev": "Viking FK",
+      "dep": "KFUM Oslo",
+      "ev_id": "510",
+      "dep_id": "22165",
+      "ev_gol": 5,
+      "dep_gol": 1
+    },
+    {
+      "id": "401878343",
+      "lig": "sco.1",
+      "tarih": "2026-11-08T16:00Z",
+      "ev": "Celtic",
+      "dep": "Kilmarnock",
+      "ev_id": "256",
+      "dep_id": "260",
+      "ev_gol": 1,
+      "dep_gol": 0
     },
     {
       "id": "401876408",
@@ -3413,6 +5745,28 @@
       "dep_id": "598",
       "ev_gol": 2,
       "dep_gol": 0
+    },
+    {
+      "id": "401896729",
+      "lig": "gre.1",
+      "tarih": "2026-11-08T16:30Z",
+      "ev": "OFI Crete",
+      "dep": "Atromitos",
+      "ev_id": "1010",
+      "dep_id": "6790",
+      "ev_gol": 0,
+      "dep_gol": 0
+    },
+    {
+      "id": "401874556",
+      "lig": "den.1",
+      "tarih": "2026-11-08T17:00Z",
+      "ev": "FC Midtjylland",
+      "dep": "Sønderjyske Fodbold",
+      "ev_id": "572",
+      "dep_id": "8118",
+      "ev_gol": 2,
+      "dep_gol": 2
     },
     {
       "id": "401874808",
@@ -3503,6 +5857,17 @@
       "dep_gol": 1
     },
     {
+      "id": "401843475",
+      "lig": "nor.1",
+      "tarih": "2026-11-08T18:15Z",
+      "ev": "Fredrikstad",
+      "dep": "SK Brann",
+      "ev_id": "3039",
+      "dep_id": "620",
+      "ev_gol": 2,
+      "dep_gol": 2
+    },
+    {
       "id": "401884742",
       "lig": "ger.1",
       "tarih": "2026-11-08T18:30Z",
@@ -3523,6 +5888,17 @@
       "dep_id": "4050",
       "ev_gol": 1,
       "dep_gol": 4
+    },
+    {
+      "id": "401896730",
+      "lig": "gre.1",
+      "tarih": "2026-11-08T19:00Z",
+      "ev": "Olympiacos",
+      "dep": "PAOK",
+      "ev_id": "435",
+      "dep_id": "605",
+      "ev_gol": 1,
+      "dep_gol": 1
     },
     {
       "id": "401875549",
@@ -3591,6 +5967,28 @@
       "dep_gol": 3
     },
     {
+      "id": "401841668",
+      "lig": "arg.1",
+      "tarih": "2026-11-08T22:30Z",
+      "ev": "Central Córdoba (Santiago del Estero)",
+      "dep": "Lanús",
+      "ev_id": "11989",
+      "dep_id": "12",
+      "ev_gol": 1,
+      "dep_gol": 1
+    },
+    {
+      "id": "401843480",
+      "lig": "nor.1",
+      "tarih": "2026-11-09T18:00Z",
+      "ev": "Kristiansund BK",
+      "dep": "Vålerenga",
+      "ev_id": "6672",
+      "dep_id": "2791",
+      "ev_gol": 1,
+      "dep_gol": 0
+    },
+    {
       "id": "401883139",
       "lig": "esp.2",
       "tarih": "2026-11-09T19:30Z",
@@ -3622,6 +6020,17 @@
       "dep_id": "12597",
       "ev_gol": 3,
       "dep_gol": 1
+    },
+    {
+      "id": "401881273",
+      "lig": "eng.4",
+      "tarih": "2026-11-14T12:30Z",
+      "ev": "Exeter City",
+      "dep": "Cheltenham Town",
+      "ev_id": "324",
+      "dep_id": "320",
+      "ev_gol": 1,
+      "dep_gol": 0
     },
     {
       "id": "401883114",
@@ -3690,6 +6099,259 @@
       "dep_gol": 0
     },
     {
+      "id": "401881266",
+      "lig": "eng.4",
+      "tarih": "2026-11-14T15:00Z",
+      "ev": "Swindon Town",
+      "dep": "Grimsby Town",
+      "ev_id": "341",
+      "dep_id": "386",
+      "ev_gol": 1,
+      "dep_gol": 4
+    },
+    {
+      "id": "401881267",
+      "lig": "eng.4",
+      "tarih": "2026-11-14T15:00Z",
+      "ev": "Shrewsbury Town",
+      "dep": "Oldham Athletic",
+      "ev_id": "302",
+      "dep_id": "332",
+      "ev_gol": 2,
+      "dep_gol": 1
+    },
+    {
+      "id": "401881268",
+      "lig": "eng.4",
+      "tarih": "2026-11-14T15:00Z",
+      "ev": "Salford City",
+      "dep": "Northampton Town",
+      "ev_id": "4703",
+      "dep_id": "353",
+      "ev_gol": 1,
+      "dep_gol": 1
+    },
+    {
+      "id": "401881270",
+      "lig": "eng.4",
+      "tarih": "2026-11-14T15:00Z",
+      "ev": "Rochdale",
+      "dep": "York City",
+      "ev_id": "303",
+      "dep_id": "315",
+      "ev_gol": 0,
+      "dep_gol": 1
+    },
+    {
+      "id": "401881271",
+      "lig": "eng.4",
+      "tarih": "2026-11-14T15:00Z",
+      "ev": "Port Vale",
+      "dep": "Accrington Stanley",
+      "ev_id": "348",
+      "dep_id": "2731",
+      "ev_gol": 4,
+      "dep_gol": 2
+    },
+    {
+      "id": "401881274",
+      "lig": "eng.4",
+      "tarih": "2026-11-14T15:00Z",
+      "ev": "Crewe Alexandra",
+      "dep": "Newport County",
+      "ev_id": "396",
+      "dep_id": "635",
+      "ev_gol": 2,
+      "dep_gol": 2
+    },
+    {
+      "id": "401881275",
+      "lig": "eng.4",
+      "tarih": "2026-11-14T15:00Z",
+      "ev": "Colchester United",
+      "dep": "Gillingham",
+      "ev_id": "339",
+      "dep_id": "389",
+      "ev_gol": 2,
+      "dep_gol": 0
+    },
+    {
+      "id": "401881276",
+      "lig": "eng.4",
+      "tarih": "2026-11-14T15:00Z",
+      "ev": "Bristol Rovers",
+      "dep": "Chesterfield",
+      "ev_id": "308",
+      "dep_id": "343",
+      "ev_gol": 0,
+      "dep_gol": 2
+    },
+    {
+      "id": "401889202",
+      "lig": "eng.5",
+      "tarih": "2026-11-14T15:00Z",
+      "ev": "Yeovil Town",
+      "dep": "Boreham Wood",
+      "ev_id": "284",
+      "dep_id": "2595",
+      "ev_gol": 2,
+      "dep_gol": 2
+    },
+    {
+      "id": "401889204",
+      "lig": "eng.5",
+      "tarih": "2026-11-14T15:00Z",
+      "ev": "Sutton United",
+      "dep": "Solihull Moors",
+      "ev_id": "3231",
+      "dep_id": "13061",
+      "ev_gol": 0,
+      "dep_gol": 2
+    },
+    {
+      "id": "401889205",
+      "lig": "eng.5",
+      "tarih": "2026-11-14T15:00Z",
+      "ev": "Southend United",
+      "dep": "Aldershot Town",
+      "ev_id": "310",
+      "dep_id": "632",
+      "ev_gol": 2,
+      "dep_gol": 1
+    },
+    {
+      "id": "401889206",
+      "lig": "eng.5",
+      "tarih": "2026-11-14T15:00Z",
+      "ev": "Scunthorpe United",
+      "dep": "Worthing",
+      "ev_id": "313",
+      "dep_id": "128663",
+      "ev_gol": 1,
+      "dep_gol": 1
+    },
+    {
+      "id": "401889207",
+      "lig": "eng.5",
+      "tarih": "2026-11-14T15:00Z",
+      "ev": "Kidderminster Harriers",
+      "dep": "FC Halifax Town",
+      "ev_id": "319",
+      "dep_id": "312",
+      "ev_gol": 1,
+      "dep_gol": 1
+    },
+    {
+      "id": "401889208",
+      "lig": "eng.5",
+      "tarih": "2026-11-14T15:00Z",
+      "ev": "Hartlepool United",
+      "dep": "Wealdstone",
+      "ev_id": "323",
+      "dep_id": "3887",
+      "ev_gol": 1,
+      "dep_gol": 1
+    },
+    {
+      "id": "401889209",
+      "lig": "eng.5",
+      "tarih": "2026-11-14T15:00Z",
+      "ev": "Harrogate Town",
+      "dep": "Altrincham",
+      "ev_id": "19262",
+      "dep_id": "633",
+      "ev_gol": 4,
+      "dep_gol": 0
+    },
+    {
+      "id": "401889210",
+      "lig": "eng.5",
+      "tarih": "2026-11-14T15:00Z",
+      "ev": "Gateshead",
+      "dep": "Barrow",
+      "ev_id": "3138",
+      "dep_id": "642",
+      "ev_gol": 0,
+      "dep_gol": 3
+    },
+    {
+      "id": "401889211",
+      "lig": "eng.5",
+      "tarih": "2026-11-14T15:00Z",
+      "ev": "Eastleigh",
+      "dep": "AFC Fylde",
+      "ev_id": "3897",
+      "dep_id": "13884",
+      "ev_gol": 1,
+      "dep_gol": 2
+    },
+    {
+      "id": "401889212",
+      "lig": "eng.5",
+      "tarih": "2026-11-14T15:00Z",
+      "ev": "Carlisle United",
+      "dep": "Boston United",
+      "ev_id": "322",
+      "dep_id": "3256",
+      "ev_gol": 2,
+      "dep_gol": 0
+    },
+    {
+      "id": "401889418",
+      "lig": "eng.5",
+      "tarih": "2026-11-14T15:00Z",
+      "ev": "AFC Hornchurch",
+      "dep": "Tamworth",
+      "ev_id": "10167",
+      "dep_id": "645",
+      "ev_gol": 2,
+      "dep_gol": 1
+    },
+    {
+      "id": "401878522",
+      "lig": "sco.2",
+      "tarih": "2026-11-14T15:00Z",
+      "ev": "Stenhousemuir",
+      "dep": "Queen's Park",
+      "ev_id": "405",
+      "dep_id": "422",
+      "ev_gol": 2,
+      "dep_gol": 0
+    },
+    {
+      "id": "401878523",
+      "lig": "sco.2",
+      "tarih": "2026-11-14T15:00Z",
+      "ev": "Partick Thistle",
+      "dep": "Inverness Caledonian Thistle",
+      "ev_id": "247",
+      "dep_id": "253",
+      "ev_gol": 3,
+      "dep_gol": 2
+    },
+    {
+      "id": "401878524",
+      "lig": "sco.2",
+      "tarih": "2026-11-14T15:00Z",
+      "ev": "Livingston",
+      "dep": "Greenock Morton",
+      "ev_id": "259",
+      "dep_id": "411",
+      "ev_gol": 2,
+      "dep_gol": 0
+    },
+    {
+      "id": "401878526",
+      "lig": "sco.2",
+      "tarih": "2026-11-14T15:00Z",
+      "ev": "Ayr United",
+      "dep": "Raith Rovers",
+      "ev_id": "248",
+      "dep_id": "249",
+      "ev_gol": 3,
+      "dep_gol": 1
+    },
+    {
       "id": "401883134",
       "lig": "esp.2",
       "tarih": "2026-11-14T15:15Z",
@@ -3699,6 +6361,28 @@
       "dep_id": "3788",
       "ev_gol": 2,
       "dep_gol": 2
+    },
+    {
+      "id": "401875854",
+      "lig": "ned.2",
+      "tarih": "2026-11-14T15:30Z",
+      "ev": "NAC Breda",
+      "dep": "FC Emmen",
+      "ev_id": "141",
+      "dep_id": "3707",
+      "ev_gol": 4,
+      "dep_gol": 2
+    },
+    {
+      "id": "401881272",
+      "lig": "eng.4",
+      "tarih": "2026-11-14T17:30Z",
+      "ev": "Fleetwood Town",
+      "dep": "Tranmere Rovers",
+      "ev_id": "3891",
+      "dep_id": "345",
+      "ev_gol": 1,
+      "dep_gol": 0
     },
     {
       "id": "401883118",
@@ -3723,6 +6407,72 @@
       "dep_gol": 3
     },
     {
+      "id": "401875848",
+      "lig": "ned.2",
+      "tarih": "2026-11-14T19:00Z",
+      "ev": "VVV-Venlo",
+      "dep": "FC Eindhoven",
+      "ev_id": "3731",
+      "dep_id": "3732",
+      "ev_gol": 1,
+      "dep_gol": 2
+    },
+    {
+      "id": "401875849",
+      "lig": "ned.2",
+      "tarih": "2026-11-14T19:00Z",
+      "ev": "Roda JC Kerkrade",
+      "dep": "FC Volendam",
+      "ev_id": "149",
+      "dep_id": "2727",
+      "ev_gol": 3,
+      "dep_gol": 1
+    },
+    {
+      "id": "401875850",
+      "lig": "ned.2",
+      "tarih": "2026-11-14T19:00Z",
+      "ev": "RKC Waalwijk",
+      "dep": "FC Den Bosch",
+      "ev_id": "155",
+      "dep_id": "271",
+      "ev_gol": 4,
+      "dep_gol": 0
+    },
+    {
+      "id": "401875851",
+      "lig": "ned.2",
+      "tarih": "2026-11-14T19:00Z",
+      "ev": "FC Dordrecht",
+      "dep": "Heracles Almelo",
+      "ev_id": "4426",
+      "dep_id": "3708",
+      "ev_gol": 1,
+      "dep_gol": 2
+    },
+    {
+      "id": "401875852",
+      "lig": "ned.2",
+      "tarih": "2026-11-14T19:00Z",
+      "ev": "De Graafschap",
+      "dep": "TOP Oss",
+      "ev_id": "144",
+      "dep_id": "3728",
+      "ev_gol": 1,
+      "dep_gol": 2
+    },
+    {
+      "id": "401875853",
+      "lig": "ned.2",
+      "tarih": "2026-11-14T19:00Z",
+      "ev": "Almere City",
+      "dep": "Helmond Sport",
+      "ev_id": "5291",
+      "dep_id": "3775",
+      "ev_gol": 6,
+      "dep_gol": 1
+    },
+    {
       "id": "401883115",
       "lig": "esp.2",
       "tarih": "2026-11-14T20:00Z",
@@ -3731,6 +6481,28 @@
       "ev_id": "92",
       "dep_id": "9812",
       "ev_gol": 1,
+      "dep_gol": 2
+    },
+    {
+      "id": "401841311",
+      "lig": "bra.1",
+      "tarih": "2026-11-14T21:30Z",
+      "ev": "Mirassol",
+      "dep": "Atlético-MG",
+      "ev_id": "9169",
+      "dep_id": "7632",
+      "ev_gol": 0,
+      "dep_gol": 0
+    },
+    {
+      "id": "401841175",
+      "lig": "bra.1",
+      "tarih": "2026-11-14T23:30Z",
+      "ev": "Chapecoense",
+      "dep": "Vasco da Gama",
+      "ev_id": "9318",
+      "dep_id": "3454",
+      "ev_gol": 0,
       "dep_gol": 2
     },
     {
@@ -3743,6 +6515,17 @@
       "dep_id": "5404",
       "ev_gol": 2,
       "dep_gol": 0
+    },
+    {
+      "id": "401875847",
+      "lig": "ned.2",
+      "tarih": "2026-11-15T13:30Z",
+      "ev": "MVV Maastricht",
+      "dep": "Vitesse",
+      "ev_id": "3730",
+      "dep_id": "154",
+      "ev_gol": 2,
+      "dep_gol": 1
     },
     {
       "id": "401883116",
@@ -3789,6 +6572,105 @@
       "dep_gol": 0
     },
     {
+      "id": "401841315",
+      "lig": "bra.1",
+      "tarih": "2026-11-18T22:30Z",
+      "ev": "Coritiba",
+      "dep": "Santos",
+      "ev_id": "3456",
+      "dep_id": "2674",
+      "ev_gol": 0,
+      "dep_gol": 1
+    },
+    {
+      "id": "401841310",
+      "lig": "bra.1",
+      "tarih": "2026-11-18T23:00Z",
+      "ev": "Remo",
+      "dep": "Chapecoense",
+      "ev_id": "4936",
+      "dep_id": "9318",
+      "ev_gol": 2,
+      "dep_gol": 0
+    },
+    {
+      "id": "401841313",
+      "lig": "bra.1",
+      "tarih": "2026-11-18T23:30Z",
+      "ev": "Flamengo",
+      "dep": "Athletico-PR",
+      "ev_id": "819",
+      "dep_id": "3458",
+      "ev_gol": 2,
+      "dep_gol": 1
+    },
+    {
+      "id": "401841314",
+      "lig": "bra.1",
+      "tarih": "2026-11-18T23:30Z",
+      "ev": "Cruzeiro",
+      "dep": "Palmeiras",
+      "ev_id": "2022",
+      "dep_id": "2029",
+      "ev_gol": 2,
+      "dep_gol": 1
+    },
+    {
+      "id": "401841312",
+      "lig": "bra.1",
+      "tarih": "2026-11-19T00:30Z",
+      "ev": "Grêmio",
+      "dep": "Bahia",
+      "ev_id": "6273",
+      "dep_id": "9967",
+      "ev_gol": 0,
+      "dep_gol": 0
+    },
+    {
+      "id": "401841316",
+      "lig": "bra.1",
+      "tarih": "2026-11-19T00:30Z",
+      "ev": "Corinthians",
+      "dep": "Botafogo",
+      "ev_id": "874",
+      "dep_id": "6086",
+      "ev_gol": 4,
+      "dep_gol": 0
+    },
+    {
+      "id": "401841308",
+      "lig": "bra.1",
+      "tarih": "2026-11-19T22:30Z",
+      "ev": "Vasco da Gama",
+      "dep": "Internacional",
+      "ev_id": "3454",
+      "dep_id": "1936",
+      "ev_gol": 2,
+      "dep_gol": 1
+    },
+    {
+      "id": "401841317",
+      "lig": "bra.1",
+      "tarih": "2026-11-19T22:30Z",
+      "ev": "Vitória",
+      "dep": "Red Bull Bragantino",
+      "ev_id": "3457",
+      "dep_id": "6079",
+      "ev_gol": 2,
+      "dep_gol": 1
+    },
+    {
+      "id": "401841309",
+      "lig": "bra.1",
+      "tarih": "2026-11-20T00:30Z",
+      "ev": "São Paulo",
+      "dep": "Fluminense",
+      "ev_id": "2026",
+      "dep_id": "3445",
+      "ev_gol": 0,
+      "dep_gol": 1
+    },
+    {
       "id": "401885049",
       "lig": "ger.2",
       "tarih": "2026-11-20T17:30Z",
@@ -3809,6 +6691,28 @@
       "dep_id": "6418",
       "ev_gol": 3,
       "dep_gol": 1
+    },
+    {
+      "id": "401874492",
+      "lig": "den.1",
+      "tarih": "2026-11-20T18:00Z",
+      "ev": "AGF",
+      "dep": "Lyngby Boldklub",
+      "ev_id": "7853",
+      "dep_id": "7860",
+      "ev_gol": 2,
+      "dep_gol": 1
+    },
+    {
+      "id": "401843486",
+      "lig": "nor.1",
+      "tarih": "2026-11-20T18:00Z",
+      "ev": "Molde",
+      "dep": "Bodo/Glimt",
+      "ev_id": "2715",
+      "dep_id": "2980",
+      "ev_gol": 2,
+      "dep_gol": 4
     },
     {
       "id": "401876685",
@@ -3866,6 +6770,105 @@
       "dep_gol": 2
     },
     {
+      "id": "401875838",
+      "lig": "ned.2",
+      "tarih": "2026-11-20T19:00Z",
+      "ev": "Vitesse",
+      "dep": "Jong AZ",
+      "ev_id": "154",
+      "dep_id": "18748",
+      "ev_gol": 0,
+      "dep_gol": 3
+    },
+    {
+      "id": "401875839",
+      "lig": "ned.2",
+      "tarih": "2026-11-20T19:00Z",
+      "ev": "TOP Oss",
+      "dep": "Roda JC Kerkrade",
+      "ev_id": "3728",
+      "dep_id": "149",
+      "ev_gol": 1,
+      "dep_gol": 0
+    },
+    {
+      "id": "401875840",
+      "lig": "ned.2",
+      "tarih": "2026-11-20T19:00Z",
+      "ev": "Jong FC Utrecht",
+      "dep": "FC Emmen",
+      "ev_id": "18278",
+      "dep_id": "3707",
+      "ev_gol": 1,
+      "dep_gol": 0
+    },
+    {
+      "id": "401875841",
+      "lig": "ned.2",
+      "tarih": "2026-11-20T19:00Z",
+      "ev": "Heracles Almelo",
+      "dep": "Jong PSV",
+      "ev_id": "3708",
+      "dep_id": "9983",
+      "ev_gol": 2,
+      "dep_gol": 1
+    },
+    {
+      "id": "401875842",
+      "lig": "ned.2",
+      "tarih": "2026-11-20T19:00Z",
+      "ev": "Helmond Sport",
+      "dep": "FC Dordrecht",
+      "ev_id": "3775",
+      "dep_id": "4426",
+      "ev_gol": 5,
+      "dep_gol": 1
+    },
+    {
+      "id": "401875843",
+      "lig": "ned.2",
+      "tarih": "2026-11-20T19:00Z",
+      "ev": "FC Volendam",
+      "dep": "Jong Ajax",
+      "ev_id": "2727",
+      "dep_id": "10597",
+      "ev_gol": 1,
+      "dep_gol": 2
+    },
+    {
+      "id": "401875844",
+      "lig": "ned.2",
+      "tarih": "2026-11-20T19:00Z",
+      "ev": "FC Den Bosch",
+      "dep": "VVV-Venlo",
+      "ev_id": "271",
+      "dep_id": "3731",
+      "ev_gol": 1,
+      "dep_gol": 0
+    },
+    {
+      "id": "401875845",
+      "lig": "ned.2",
+      "tarih": "2026-11-20T19:00Z",
+      "ev": "De Graafschap",
+      "dep": "MVV Maastricht",
+      "ev_id": "144",
+      "dep_id": "3730",
+      "ev_gol": 3,
+      "dep_gol": 0
+    },
+    {
+      "id": "401875846",
+      "lig": "ned.2",
+      "tarih": "2026-11-20T19:00Z",
+      "ev": "Almere City",
+      "dep": "NAC Breda",
+      "ev_id": "5291",
+      "dep_id": "141",
+      "ev_gol": 1,
+      "dep_gol": 4
+    },
+    {
       "id": "401883112",
       "lig": "esp.2",
       "tarih": "2026-11-20T19:30Z",
@@ -3899,6 +6902,17 @@
       "dep_gol": 2
     },
     {
+      "id": "401878519",
+      "lig": "sco.2",
+      "tarih": "2026-11-20T19:30Z",
+      "ev": "Inverness Caledonian Thistle",
+      "dep": "Ayr United",
+      "ev_id": "253",
+      "dep_id": "248",
+      "ev_gol": 0,
+      "dep_gol": 0
+    },
+    {
       "id": "401878937",
       "lig": "bel.1",
       "tarih": "2026-11-20T19:45Z",
@@ -3908,6 +6922,17 @@
       "dep_id": "606",
       "ev_gol": 1,
       "dep_gol": 0
+    },
+    {
+      "id": "401889201",
+      "lig": "eng.5",
+      "tarih": "2026-11-20T19:45Z",
+      "ev": "Southend United",
+      "dep": "Boreham Wood",
+      "ev_id": "310",
+      "dep_id": "2595",
+      "ev_gol": 2,
+      "dep_gol": 3
     },
     {
       "id": "401876395",
@@ -4053,6 +7078,50 @@
       "dep_gol": 2
     },
     {
+      "id": "401881257",
+      "lig": "eng.4",
+      "tarih": "2026-11-21T12:30Z",
+      "ev": "Newport County",
+      "dep": "Swindon Town",
+      "ev_id": "635",
+      "dep_id": "341",
+      "ev_gol": 2,
+      "dep_gol": 0
+    },
+    {
+      "id": "401881259",
+      "lig": "eng.4",
+      "tarih": "2026-11-21T12:30Z",
+      "ev": "Gillingham",
+      "dep": "Crewe Alexandra",
+      "ev_id": "389",
+      "dep_id": "396",
+      "ev_gol": 3,
+      "dep_gol": 3
+    },
+    {
+      "id": "401889199",
+      "lig": "eng.5",
+      "tarih": "2026-11-21T12:30Z",
+      "ev": "Tamworth",
+      "dep": "Eastleigh",
+      "ev_id": "645",
+      "dep_id": "3897",
+      "ev_gol": 1,
+      "dep_gol": 3
+    },
+    {
+      "id": "401889200",
+      "lig": "eng.5",
+      "tarih": "2026-11-21T12:30Z",
+      "ev": "Solihull Moors",
+      "dep": "Altrincham",
+      "ev_id": "13061",
+      "dep_id": "633",
+      "ev_gol": 2,
+      "dep_gol": 1
+    },
+    {
       "id": "401882806",
       "lig": "esp.1",
       "tarih": "2026-11-21T13:00Z",
@@ -4084,6 +7153,17 @@
       "dep_id": "274",
       "ev_gol": 1,
       "dep_gol": 0
+    },
+    {
+      "id": "401843483",
+      "lig": "nor.1",
+      "tarih": "2026-11-21T13:00Z",
+      "ev": "Tromso",
+      "dep": "Viking FK",
+      "ev_id": "5270",
+      "dep_id": "510",
+      "ev_gol": 3,
+      "dep_gol": 2
     },
     {
       "id": "401888245",
@@ -4183,6 +7263,28 @@
       "dep_id": "120",
       "ev_gol": 2,
       "dep_gol": 2
+    },
+    {
+      "id": "401842882",
+      "lig": "swe.1",
+      "tarih": "2026-11-21T14:00Z",
+      "ev": "AIK",
+      "dep": "Degerfors IF",
+      "ev_id": "994",
+      "dep_id": "20856",
+      "ev_gol": 0,
+      "dep_gol": 0
+    },
+    {
+      "id": "401842886",
+      "lig": "swe.1",
+      "tarih": "2026-11-21T14:00Z",
+      "ev": "Mjällby AIF",
+      "dep": "Malmö FF",
+      "ev_id": "20301",
+      "dep_id": "2720",
+      "ev_gol": 1,
+      "dep_gol": 1
     },
     {
       "id": "401884728",
@@ -4493,6 +7595,292 @@
       "dep_gol": 2
     },
     {
+      "id": "401881253",
+      "lig": "eng.4",
+      "tarih": "2026-11-21T15:00Z",
+      "ev": "York City",
+      "dep": "Walsall",
+      "ev_id": "315",
+      "dep_id": "401",
+      "ev_gol": 0,
+      "dep_gol": 0
+    },
+    {
+      "id": "401881254",
+      "lig": "eng.4",
+      "tarih": "2026-11-21T15:00Z",
+      "ev": "Tranmere Rovers",
+      "dep": "Colchester United",
+      "ev_id": "345",
+      "dep_id": "339",
+      "ev_gol": 2,
+      "dep_gol": 1
+    },
+    {
+      "id": "401881255",
+      "lig": "eng.4",
+      "tarih": "2026-11-21T15:00Z",
+      "ev": "Oldham Athletic",
+      "dep": "Exeter City",
+      "ev_id": "332",
+      "dep_id": "324",
+      "ev_gol": 1,
+      "dep_gol": 1
+    },
+    {
+      "id": "401881256",
+      "lig": "eng.4",
+      "tarih": "2026-11-21T15:00Z",
+      "ev": "Northampton Town",
+      "dep": "Rochdale",
+      "ev_id": "353",
+      "dep_id": "303",
+      "ev_gol": 3,
+      "dep_gol": 2
+    },
+    {
+      "id": "401881258",
+      "lig": "eng.4",
+      "tarih": "2026-11-21T15:00Z",
+      "ev": "Grimsby Town",
+      "dep": "Rotherham United",
+      "ev_id": "386",
+      "dep_id": "402",
+      "ev_gol": 0,
+      "dep_gol": 0
+    },
+    {
+      "id": "401881260",
+      "lig": "eng.4",
+      "tarih": "2026-11-21T15:00Z",
+      "ev": "Crawley Town",
+      "dep": "Fleetwood Town",
+      "ev_id": "2594",
+      "dep_id": "3891",
+      "ev_gol": 2,
+      "dep_gol": 1
+    },
+    {
+      "id": "401881261",
+      "lig": "eng.4",
+      "tarih": "2026-11-21T15:00Z",
+      "ev": "Chesterfield",
+      "dep": "Shrewsbury Town",
+      "ev_id": "343",
+      "dep_id": "302",
+      "ev_gol": 4,
+      "dep_gol": 1
+    },
+    {
+      "id": "401881262",
+      "lig": "eng.4",
+      "tarih": "2026-11-21T15:00Z",
+      "ev": "Cheltenham Town",
+      "dep": "Bristol Rovers",
+      "ev_id": "320",
+      "dep_id": "308",
+      "ev_gol": 0,
+      "dep_gol": 3
+    },
+    {
+      "id": "401881263",
+      "lig": "eng.4",
+      "tarih": "2026-11-21T15:00Z",
+      "ev": "Barnet",
+      "dep": "Port Vale",
+      "ev_id": "280",
+      "dep_id": "348",
+      "ev_gol": 2,
+      "dep_gol": 1
+    },
+    {
+      "id": "401881264",
+      "lig": "eng.4",
+      "tarih": "2026-11-21T15:00Z",
+      "ev": "Accrington Stanley",
+      "dep": "Salford City",
+      "ev_id": "2731",
+      "dep_id": "4703",
+      "ev_gol": 1,
+      "dep_gol": 1
+    },
+    {
+      "id": "401889192",
+      "lig": "eng.5",
+      "tarih": "2026-11-21T15:00Z",
+      "ev": "Worthing",
+      "dep": "Harrogate Town",
+      "ev_id": "128663",
+      "dep_id": "19262",
+      "ev_gol": 2,
+      "dep_gol": 1
+    },
+    {
+      "id": "401889193",
+      "lig": "eng.5",
+      "tarih": "2026-11-21T15:00Z",
+      "ev": "Sutton United",
+      "dep": "Boston United",
+      "ev_id": "3231",
+      "dep_id": "3256",
+      "ev_gol": 1,
+      "dep_gol": 0
+    },
+    {
+      "id": "401889194",
+      "lig": "eng.5",
+      "tarih": "2026-11-21T15:00Z",
+      "ev": "Kidderminster Harriers",
+      "dep": "AFC Fylde",
+      "ev_id": "319",
+      "dep_id": "13884",
+      "ev_gol": 2,
+      "dep_gol": 2
+    },
+    {
+      "id": "401889195",
+      "lig": "eng.5",
+      "tarih": "2026-11-21T15:00Z",
+      "ev": "Gateshead",
+      "dep": "Hartlepool United",
+      "ev_id": "3138",
+      "dep_id": "323",
+      "ev_gol": 1,
+      "dep_gol": 2
+    },
+    {
+      "id": "401889196",
+      "lig": "eng.5",
+      "tarih": "2026-11-21T15:00Z",
+      "ev": "FC Halifax Town",
+      "dep": "Woking",
+      "ev_id": "312",
+      "dep_id": "290",
+      "ev_gol": 5,
+      "dep_gol": 0
+    },
+    {
+      "id": "401889197",
+      "lig": "eng.5",
+      "tarih": "2026-11-21T15:00Z",
+      "ev": "Barrow",
+      "dep": "Carlisle United",
+      "ev_id": "642",
+      "dep_id": "322",
+      "ev_gol": 0,
+      "dep_gol": 2
+    },
+    {
+      "id": "401889198",
+      "lig": "eng.5",
+      "tarih": "2026-11-21T15:00Z",
+      "ev": "Aldershot Town",
+      "dep": "Scunthorpe United",
+      "ev_id": "632",
+      "dep_id": "313",
+      "ev_gol": 2,
+      "dep_gol": 0
+    },
+    {
+      "id": "401889417",
+      "lig": "eng.5",
+      "tarih": "2026-11-21T15:00Z",
+      "ev": "Wealdstone",
+      "dep": "AFC Hornchurch",
+      "ev_id": "3887",
+      "dep_id": "10167",
+      "ev_gol": 4,
+      "dep_gol": 0
+    },
+    {
+      "id": "401843489",
+      "lig": "nor.1",
+      "tarih": "2026-11-21T15:00Z",
+      "ev": "Hamarkameratene",
+      "dep": "Fredrikstad",
+      "ev_id": "21380",
+      "dep_id": "3039",
+      "ev_gol": 0,
+      "dep_gol": 0
+    },
+    {
+      "id": "401878334",
+      "lig": "sco.1",
+      "tarih": "2026-11-21T15:00Z",
+      "ev": "Kilmarnock",
+      "dep": "Aberdeen",
+      "ev_id": "260",
+      "dep_id": "263",
+      "ev_gol": 2,
+      "dep_gol": 4
+    },
+    {
+      "id": "401878335",
+      "lig": "sco.1",
+      "tarih": "2026-11-21T15:00Z",
+      "ev": "Hibernian",
+      "dep": "Dundee United",
+      "ev_id": "258",
+      "dep_id": "264",
+      "ev_gol": 0,
+      "dep_gol": 4
+    },
+    {
+      "id": "401878336",
+      "lig": "sco.1",
+      "tarih": "2026-11-21T15:00Z",
+      "ev": "Falkirk",
+      "dep": "St Johnstone",
+      "ev_id": "254",
+      "dep_id": "267",
+      "ev_gol": 2,
+      "dep_gol": 1
+    },
+    {
+      "id": "401878338",
+      "lig": "sco.1",
+      "tarih": "2026-11-21T15:00Z",
+      "ev": "Celtic",
+      "dep": "St Mirren",
+      "ev_id": "256",
+      "dep_id": "250",
+      "ev_gol": 4,
+      "dep_gol": 1
+    },
+    {
+      "id": "401878517",
+      "lig": "sco.2",
+      "tarih": "2026-11-21T15:00Z",
+      "ev": "Raith Rovers",
+      "dep": "Partick Thistle",
+      "ev_id": "249",
+      "dep_id": "247",
+      "ev_gol": 0,
+      "dep_gol": 2
+    },
+    {
+      "id": "401878518",
+      "lig": "sco.2",
+      "tarih": "2026-11-21T15:00Z",
+      "ev": "Queen's Park",
+      "dep": "Livingston",
+      "ev_id": "422",
+      "dep_id": "259",
+      "ev_gol": 1,
+      "dep_gol": 4
+    },
+    {
+      "id": "401878521",
+      "lig": "sco.2",
+      "tarih": "2026-11-21T15:00Z",
+      "ev": "Arbroath",
+      "dep": "Stenhousemuir",
+      "ev_id": "252",
+      "dep_id": "405",
+      "ev_gol": 2,
+      "dep_gol": 1
+    },
+    {
       "id": "401882799",
       "lig": "esp.1",
       "tarih": "2026-11-21T15:15Z",
@@ -4524,6 +7912,39 @@
       "dep_id": "148",
       "ev_gol": 1,
       "dep_gol": 4
+    },
+    {
+      "id": "401875837",
+      "lig": "ned.2",
+      "tarih": "2026-11-21T15:30Z",
+      "ev": "FC Eindhoven",
+      "dep": "RKC Waalwijk",
+      "ev_id": "3732",
+      "dep_id": "155",
+      "ev_gol": 3,
+      "dep_gol": 2
+    },
+    {
+      "id": "401881744",
+      "lig": "aut.1",
+      "tarih": "2026-11-21T16:00Z",
+      "ev": "WSG Swarovski Tirol",
+      "dep": "Austria Lustenau",
+      "ev_id": "18794",
+      "dep_id": "21540",
+      "ev_gol": 0,
+      "dep_gol": 1
+    },
+    {
+      "id": "401881749",
+      "lig": "aut.1",
+      "tarih": "2026-11-21T16:00Z",
+      "ev": "LASK Linz",
+      "dep": "TSV Hartberg",
+      "ev_id": "4411",
+      "dep_id": "6907",
+      "ev_gol": 2,
+      "dep_gol": 1
     },
     {
       "id": "401888244",
@@ -4559,6 +7980,17 @@
       "dep_gol": 1
     },
     {
+      "id": "401842889",
+      "lig": "swe.1",
+      "tarih": "2026-11-21T16:30Z",
+      "ev": "GAIS",
+      "dep": "Västerås SK",
+      "ev_id": "8222",
+      "dep_id": "22163",
+      "ev_gol": 3,
+      "dep_gol": 1
+    },
+    {
       "id": "401874967",
       "lig": "ita.1",
       "tarih": "2026-11-21T17:00Z",
@@ -4568,6 +8000,17 @@
       "dep_id": "104",
       "ev_gol": 1,
       "dep_gol": 5
+    },
+    {
+      "id": "401843485",
+      "lig": "nor.1",
+      "tarih": "2026-11-21T17:00Z",
+      "ev": "Vålerenga",
+      "dep": "IK Start",
+      "ev_id": "2791",
+      "dep_id": "6750",
+      "ev_gol": 1,
+      "dep_gol": 2
     },
     {
       "id": "401878939",
@@ -4589,6 +8032,17 @@
       "ev_id": "361",
       "dep_id": "359",
       "ev_gol": 2,
+      "dep_gol": 2
+    },
+    {
+      "id": "401889191",
+      "lig": "eng.5",
+      "tarih": "2026-11-21T17:30Z",
+      "ev": "Yeovil Town",
+      "dep": "Forest Green Rovers",
+      "ev_id": "284",
+      "dep_id": "282",
+      "ev_gol": 3,
       "dep_gol": 2
     },
     {
@@ -4625,6 +8079,17 @@
       "dep_gol": 0
     },
     {
+      "id": "401896810",
+      "lig": "gre.1",
+      "tarih": "2026-11-21T17:30Z",
+      "ev": "Kalamata",
+      "dep": "AEK Athens",
+      "ev_id": "132429",
+      "dep_id": "887",
+      "ev_gol": 0,
+      "dep_gol": 1
+    },
+    {
       "id": "401875543",
       "lig": "ned.1",
       "tarih": "2026-11-21T17:45Z",
@@ -4647,6 +8112,39 @@
       "dep_gol": 3
     },
     {
+      "id": "401878337",
+      "lig": "sco.1",
+      "tarih": "2026-11-21T17:45Z",
+      "ev": "Dundee",
+      "dep": "Heart of Midlothian",
+      "ev_id": "261",
+      "dep_id": "262",
+      "ev_gol": 0,
+      "dep_gol": 8
+    },
+    {
+      "id": "401933758",
+      "lig": "arg.1",
+      "tarih": "2026-11-21T18:00Z",
+      "ev": "Defensa y Justicia",
+      "dep": "Barracas Central",
+      "ev_id": "8950",
+      "dep_id": "10060",
+      "ev_gol": 0,
+      "dep_gol": 1
+    },
+    {
+      "id": "401881746",
+      "lig": "aut.1",
+      "tarih": "2026-11-21T18:30Z",
+      "ev": "Grazer AK",
+      "dep": "Rapid Vienna",
+      "ev_id": "21846",
+      "dep_id": "519",
+      "ev_gol": 0,
+      "dep_gol": 3
+    },
+    {
       "id": "401899544",
       "lig": "ita.2",
       "tarih": "2026-11-21T18:30Z",
@@ -4666,6 +8164,17 @@
       "ev_id": "3243",
       "dep_id": "178",
       "ev_gol": 0,
+      "dep_gol": 1
+    },
+    {
+      "id": "401841322",
+      "lig": "bra.1",
+      "tarih": "2026-11-21T19:30Z",
+      "ev": "Palmeiras",
+      "dep": "Flamengo",
+      "ev_id": "2029",
+      "dep_id": "819",
+      "ev_gol": 1,
       "dep_gol": 1
     },
     {
@@ -4757,6 +8266,17 @@
       "dep_gol": 0
     },
     {
+      "id": "401933755",
+      "lig": "arg.1",
+      "tarih": "2026-11-21T20:00Z",
+      "ev": "Argentinos Juniors",
+      "dep": "Independiente",
+      "ev_id": "3",
+      "dep_id": "11",
+      "ev_gol": 1,
+      "dep_gol": 2
+    },
+    {
       "id": "401882798",
       "lig": "esp.1",
       "tarih": "2026-11-21T20:00Z",
@@ -4799,6 +8319,39 @@
       "dep_id": "146",
       "ev_gol": 1,
       "dep_gol": 3
+    },
+    {
+      "id": "401878333",
+      "lig": "sco.1",
+      "tarih": "2026-11-21T20:00Z",
+      "ev": "Motherwell",
+      "dep": "Rangers",
+      "ev_id": "266",
+      "dep_id": "257",
+      "ev_gol": 1,
+      "dep_gol": 2
+    },
+    {
+      "id": "401841327",
+      "lig": "bra.1",
+      "tarih": "2026-11-21T20:30Z",
+      "ev": "Bahia",
+      "dep": "Coritiba",
+      "ev_id": "9967",
+      "dep_id": "3456",
+      "ev_gol": 0,
+      "dep_gol": 1
+    },
+    {
+      "id": "401841325",
+      "lig": "bra.1",
+      "tarih": "2026-11-22T00:00Z",
+      "ev": "Chapecoense",
+      "dep": "Cruzeiro",
+      "ev_id": "9318",
+      "dep_id": "2022",
+      "ev_gol": 1,
+      "dep_gol": 2
     },
     {
       "id": "401888243",
@@ -4889,6 +8442,28 @@
       "dep_gol": 2
     },
     {
+      "id": "401874558",
+      "lig": "den.1",
+      "tarih": "2026-11-22T13:00Z",
+      "ev": "Viborg FF",
+      "dep": "Randers FC",
+      "ev_id": "3153",
+      "dep_id": "3132",
+      "ev_gol": 0,
+      "dep_gol": 0
+    },
+    {
+      "id": "401874575",
+      "lig": "den.1",
+      "tarih": "2026-11-22T13:00Z",
+      "ev": "AC Horsens",
+      "dep": "Silkeborg IF",
+      "ev_id": "3585",
+      "dep_id": "607",
+      "ev_gol": 3,
+      "dep_gol": 1
+    },
+    {
       "id": "401882804",
       "lig": "esp.1",
       "tarih": "2026-11-22T13:00Z",
@@ -4911,6 +8486,28 @@
       "dep_gol": 0
     },
     {
+      "id": "401842885",
+      "lig": "swe.1",
+      "tarih": "2026-11-22T13:00Z",
+      "ev": "IK Sirius",
+      "dep": "Djurgården",
+      "ev_id": "8547",
+      "dep_id": "2339",
+      "ev_gol": 1,
+      "dep_gol": 0
+    },
+    {
+      "id": "401842887",
+      "lig": "swe.1",
+      "tarih": "2026-11-22T13:00Z",
+      "ev": "BK Häcken",
+      "dep": "IF Elfsborg",
+      "ev_id": "7834",
+      "dep_id": "529",
+      "ev_gol": 2,
+      "dep_gol": 1
+    },
+    {
       "id": "401888246",
       "lig": "tur.1",
       "tarih": "2026-11-22T13:00Z",
@@ -4931,6 +8528,28 @@
       "dep_id": "9078",
       "ev_gol": 2,
       "dep_gol": 1
+    },
+    {
+      "id": "401881745",
+      "lig": "aut.1",
+      "tarih": "2026-11-22T13:30Z",
+      "ev": "SC Rheindorf Altach",
+      "dep": "SK Sturm Graz",
+      "ev_id": "4405",
+      "dep_id": "3746",
+      "ev_gol": 1,
+      "dep_gol": 0
+    },
+    {
+      "id": "401881748",
+      "lig": "aut.1",
+      "tarih": "2026-11-22T13:30Z",
+      "ev": "Wolfsberger",
+      "dep": "SV Josko Ried",
+      "ev_id": "13294",
+      "dep_id": "3759",
+      "ev_gol": 1,
+      "dep_gol": 2
     },
     {
       "id": "401875540",
@@ -4975,6 +8594,17 @@
       "dep_id": "7868",
       "ev_gol": 4,
       "dep_gol": 0
+    },
+    {
+      "id": "401896727",
+      "lig": "gre.1",
+      "tarih": "2026-11-22T14:00Z",
+      "ev": "Levadiakos",
+      "dep": "Atromitos",
+      "ev_id": "5276",
+      "dep_id": "6790",
+      "ev_gol": 1,
+      "dep_gol": 1
     },
     {
       "id": "401874960",
@@ -5032,6 +8662,28 @@
       "dep_gol": 1
     },
     {
+      "id": "401874541",
+      "lig": "den.1",
+      "tarih": "2026-11-22T15:00Z",
+      "ev": "Sønderjyske Fodbold",
+      "dep": "Odense Boldklub",
+      "ev_id": "8118",
+      "dep_id": "11550",
+      "ev_gol": 1,
+      "dep_gol": 2
+    },
+    {
+      "id": "401896725",
+      "lig": "gre.1",
+      "tarih": "2026-11-22T15:00Z",
+      "ev": "Panetolikos",
+      "dep": "Volos NFC",
+      "ev_id": "11431",
+      "dep_id": "20043",
+      "ev_gol": 1,
+      "dep_gol": 0
+    },
+    {
       "id": "401882800",
       "lig": "esp.1",
       "tarih": "2026-11-22T15:15Z",
@@ -5054,6 +8706,28 @@
       "dep_gol": 2
     },
     {
+      "id": "401896726",
+      "lig": "gre.1",
+      "tarih": "2026-11-22T15:30Z",
+      "ev": "Panathinaikos",
+      "dep": "OFI Crete",
+      "ev_id": "443",
+      "dep_id": "1010",
+      "ev_gol": 2,
+      "dep_gol": 0
+    },
+    {
+      "id": "401842883",
+      "lig": "swe.1",
+      "tarih": "2026-11-22T15:30Z",
+      "ev": "IF Brommapojkarna",
+      "dep": "Halmstads BK",
+      "ev_id": "8221",
+      "dep_id": "3017",
+      "ev_gol": 0,
+      "dep_gol": 3
+    },
+    {
       "id": "401875542",
       "lig": "ned.1",
       "tarih": "2026-11-22T15:45Z",
@@ -5063,6 +8737,39 @@
       "dep_id": "143",
       "ev_gol": 0,
       "dep_gol": 1
+    },
+    {
+      "id": "401881747",
+      "lig": "aut.1",
+      "tarih": "2026-11-22T16:00Z",
+      "ev": "Austria Vienna",
+      "dep": "RB Salzburg",
+      "ev_id": "1382",
+      "dep_id": "2790",
+      "ev_gol": 1,
+      "dep_gol": 0
+    },
+    {
+      "id": "401843487",
+      "lig": "nor.1",
+      "tarih": "2026-11-22T16:00Z",
+      "ev": "Kristiansund BK",
+      "dep": "Sandefjord",
+      "ev_id": "6672",
+      "dep_id": "3279",
+      "ev_gol": 2,
+      "dep_gol": 2
+    },
+    {
+      "id": "401843490",
+      "lig": "nor.1",
+      "tarih": "2026-11-22T16:00Z",
+      "ev": "Aalesund",
+      "dep": "Rosenborg",
+      "ev_id": "3278",
+      "dep_id": "438",
+      "ev_gol": 2,
+      "dep_gol": 2
     },
     {
       "id": "401888249",
@@ -5120,6 +8827,28 @@
       "dep_gol": 0
     },
     {
+      "id": "401874493",
+      "lig": "den.1",
+      "tarih": "2026-11-22T17:00Z",
+      "ev": "FC Nordsjælland",
+      "dep": "F.C. København",
+      "ev_id": "3101",
+      "dep_id": "909",
+      "ev_gol": 5,
+      "dep_gol": 0
+    },
+    {
+      "id": "401896809",
+      "lig": "gre.1",
+      "tarih": "2026-11-22T17:00Z",
+      "ev": "Olympiacos",
+      "dep": "Iraklis",
+      "ev_id": "435",
+      "dep_id": "2575",
+      "ev_gol": 6,
+      "dep_gol": 2
+    },
+    {
       "id": "401874989",
       "lig": "ita.1",
       "tarih": "2026-11-22T17:00Z",
@@ -5175,6 +8904,28 @@
       "dep_gol": 1
     },
     {
+      "id": "401896724",
+      "lig": "gre.1",
+      "tarih": "2026-11-22T17:30Z",
+      "ev": "PAOK",
+      "dep": "Kifisia",
+      "ev_id": "605",
+      "dep_id": "21969",
+      "ev_gol": 4,
+      "dep_gol": 0
+    },
+    {
+      "id": "401843488",
+      "lig": "nor.1",
+      "tarih": "2026-11-22T18:00Z",
+      "ev": "KFUM Oslo",
+      "dep": "SK Brann",
+      "ev_id": "22165",
+      "dep_id": "620",
+      "ev_gol": 3,
+      "dep_gol": 4
+    },
+    {
       "id": "401878934",
       "lig": "bel.1",
       "tarih": "2026-11-22T18:15Z",
@@ -5183,6 +8934,39 @@
       "ev_id": "22269",
       "dep_id": "559",
       "ev_gol": 1,
+      "dep_gol": 2
+    },
+    {
+      "id": "401843484",
+      "lig": "nor.1",
+      "tarih": "2026-11-22T18:15Z",
+      "ev": "Sarpsborg FK",
+      "dep": "Lillestrom",
+      "ev_id": "5002",
+      "dep_id": "987",
+      "ev_gol": 0,
+      "dep_gol": 2
+    },
+    {
+      "id": "401933759",
+      "lig": "arg.1",
+      "tarih": "2026-11-22T19:00Z",
+      "ev": "Rosario Central",
+      "dep": "Gimnasia (Mendoza)",
+      "ev_id": "17",
+      "dep_id": "11972",
+      "ev_gol": 3,
+      "dep_gol": 1
+    },
+    {
+      "id": "401841318",
+      "lig": "bra.1",
+      "tarih": "2026-11-22T19:00Z",
+      "ev": "Athletico-PR",
+      "dep": "Remo",
+      "ev_id": "3458",
+      "dep_id": "4936",
+      "ev_gol": 4,
       "dep_gol": 2
     },
     {
@@ -5230,6 +9014,61 @@
       "dep_gol": 0
     },
     {
+      "id": "401841324",
+      "lig": "bra.1",
+      "tarih": "2026-11-22T21:30Z",
+      "ev": "Fluminense",
+      "dep": "Mirassol",
+      "ev_id": "3445",
+      "dep_id": "9169",
+      "ev_gol": 1,
+      "dep_gol": 0
+    },
+    {
+      "id": "401933761",
+      "lig": "arg.1",
+      "tarih": "2026-11-22T22:00Z",
+      "ev": "River Plate",
+      "dep": "Lanús",
+      "ev_id": "16",
+      "dep_id": "12",
+      "ev_gol": 3,
+      "dep_gol": 1
+    },
+    {
+      "id": "401841321",
+      "lig": "bra.1",
+      "tarih": "2026-11-22T22:30Z",
+      "ev": "Red Bull Bragantino",
+      "dep": "Vasco da Gama",
+      "ev_id": "6079",
+      "dep_id": "3454",
+      "ev_gol": 1,
+      "dep_gol": 0
+    },
+    {
+      "id": "401933762",
+      "lig": "arg.1",
+      "tarih": "2026-11-23T01:00Z",
+      "ev": "Instituto (Córdoba)",
+      "dep": "Huracán",
+      "ev_id": "2975",
+      "dep_id": "10",
+      "ev_gol": 2,
+      "dep_gol": 1
+    },
+    {
+      "id": "401896728",
+      "lig": "gre.1",
+      "tarih": "2026-11-23T15:00Z",
+      "ev": "Asteras Tripoli",
+      "dep": "Aris",
+      "ev_id": "8354",
+      "dep_id": "11553",
+      "ev_gol": 0,
+      "dep_gol": 1
+    },
+    {
       "id": "401888370",
       "lig": "tur.1",
       "tarih": "2026-11-23T17:00Z",
@@ -5239,6 +9078,72 @@
       "dep_id": "132334",
       "ev_gol": 4,
       "dep_gol": 2
+    },
+    {
+      "id": "401874538",
+      "lig": "den.1",
+      "tarih": "2026-11-23T18:00Z",
+      "ev": "Brøndby IF",
+      "dep": "FC Midtjylland",
+      "ev_id": "575",
+      "dep_id": "572",
+      "ev_gol": 0,
+      "dep_gol": 2
+    },
+    {
+      "id": "401842884",
+      "lig": "swe.1",
+      "tarih": "2026-11-23T18:00Z",
+      "ev": "Örgryte IS",
+      "dep": "Kalmar FF",
+      "ev_id": "131552",
+      "dep_id": "3052",
+      "ev_gol": 3,
+      "dep_gol": 2
+    },
+    {
+      "id": "401842888",
+      "lig": "swe.1",
+      "tarih": "2026-11-23T18:00Z",
+      "ev": "Hammarby IF",
+      "dep": "IFK Göteborg",
+      "ev_id": "2495",
+      "dep_id": "2556",
+      "ev_gol": 3,
+      "dep_gol": 1
+    },
+    {
+      "id": "401875835",
+      "lig": "ned.2",
+      "tarih": "2026-11-23T19:00Z",
+      "ev": "Jong PSV",
+      "dep": "Jong FC Utrecht",
+      "ev_id": "9983",
+      "dep_id": "18278",
+      "ev_gol": 3,
+      "dep_gol": 2
+    },
+    {
+      "id": "401875836",
+      "lig": "ned.2",
+      "tarih": "2026-11-23T19:00Z",
+      "ev": "Jong Ajax",
+      "dep": "Jong AZ",
+      "ev_id": "10597",
+      "dep_id": "18748",
+      "ev_gol": 3,
+      "dep_gol": 0
+    },
+    {
+      "id": "401875856",
+      "lig": "ned.2",
+      "tarih": "2026-11-23T19:00Z",
+      "ev": "Vitesse",
+      "dep": "De Graafschap",
+      "ev_id": "154",
+      "dep_id": "144",
+      "ev_gol": 0,
+      "dep_gol": 1
     },
     {
       "id": "401883110",
@@ -5305,6 +9210,39 @@
       "dep_id": "3751",
       "ev_gol": 1,
       "dep_gol": 1
+    },
+    {
+      "id": "401841323",
+      "lig": "bra.1",
+      "tarih": "2026-11-23T22:30Z",
+      "ev": "Internacional",
+      "dep": "Vitória",
+      "ev_id": "1936",
+      "dep_id": "3457",
+      "ev_gol": 2,
+      "dep_gol": 5
+    },
+    {
+      "id": "401841326",
+      "lig": "bra.1",
+      "tarih": "2026-11-23T23:00Z",
+      "ev": "Botafogo",
+      "dep": "São Paulo",
+      "ev_id": "6086",
+      "dep_id": "2026",
+      "ev_gol": 1,
+      "dep_gol": 1
+    },
+    {
+      "id": "401841320",
+      "lig": "bra.1",
+      "tarih": "2026-11-24T00:00Z",
+      "ev": "Santos",
+      "dep": "Grêmio",
+      "ev_id": "2674",
+      "dep_id": "6273",
+      "ev_gol": 0,
+      "dep_gol": 2
     },
     {
       "id": "401899536",
@@ -5494,6 +9432,138 @@
       "dep_gol": 0
     },
     {
+      "id": "401881354",
+      "lig": "eng.4",
+      "tarih": "2026-11-24T19:45Z",
+      "ev": "Port Vale",
+      "dep": "Northampton Town",
+      "ev_id": "348",
+      "dep_id": "353",
+      "ev_gol": 1,
+      "dep_gol": 1
+    },
+    {
+      "id": "401881358",
+      "lig": "eng.4",
+      "tarih": "2026-11-24T19:45Z",
+      "ev": "Crawley Town",
+      "dep": "Barnet",
+      "ev_id": "2594",
+      "dep_id": "280",
+      "ev_gol": 0,
+      "dep_gol": 0
+    },
+    {
+      "id": "401889183",
+      "lig": "eng.5",
+      "tarih": "2026-11-24T19:45Z",
+      "ev": "Woking",
+      "dep": "Worthing",
+      "ev_id": "290",
+      "dep_id": "128663",
+      "ev_gol": 4,
+      "dep_gol": 3
+    },
+    {
+      "id": "401889184",
+      "lig": "eng.5",
+      "tarih": "2026-11-24T19:45Z",
+      "ev": "Scunthorpe United",
+      "dep": "Gateshead",
+      "ev_id": "313",
+      "dep_id": "3138",
+      "ev_gol": 1,
+      "dep_gol": 2
+    },
+    {
+      "id": "401889185",
+      "lig": "eng.5",
+      "tarih": "2026-11-24T19:45Z",
+      "ev": "Forest Green Rovers",
+      "dep": "Southend United",
+      "ev_id": "282",
+      "dep_id": "310",
+      "ev_gol": 0,
+      "dep_gol": 2
+    },
+    {
+      "id": "401889186",
+      "lig": "eng.5",
+      "tarih": "2026-11-24T19:45Z",
+      "ev": "Eastleigh",
+      "dep": "Yeovil Town",
+      "ev_id": "3897",
+      "dep_id": "284",
+      "ev_gol": 1,
+      "dep_gol": 3
+    },
+    {
+      "id": "401889187",
+      "lig": "eng.5",
+      "tarih": "2026-11-24T19:45Z",
+      "ev": "Carlisle United",
+      "dep": "Tamworth",
+      "ev_id": "322",
+      "dep_id": "645",
+      "ev_gol": 1,
+      "dep_gol": 2
+    },
+    {
+      "id": "401889188",
+      "lig": "eng.5",
+      "tarih": "2026-11-24T19:45Z",
+      "ev": "Boston United",
+      "dep": "Barrow",
+      "ev_id": "3256",
+      "dep_id": "642",
+      "ev_gol": 0,
+      "dep_gol": 1
+    },
+    {
+      "id": "401889189",
+      "lig": "eng.5",
+      "tarih": "2026-11-24T19:45Z",
+      "ev": "Altrincham",
+      "dep": "Wealdstone",
+      "ev_id": "633",
+      "dep_id": "3887",
+      "ev_gol": 3,
+      "dep_gol": 0
+    },
+    {
+      "id": "401889190",
+      "lig": "eng.5",
+      "tarih": "2026-11-24T19:45Z",
+      "ev": "AFC Fylde",
+      "dep": "FC Halifax Town",
+      "ev_id": "13884",
+      "dep_id": "312",
+      "ev_gol": 0,
+      "dep_gol": 2
+    },
+    {
+      "id": "401889416",
+      "lig": "eng.5",
+      "tarih": "2026-11-24T19:45Z",
+      "ev": "AFC Hornchurch",
+      "dep": "Sutton United",
+      "ev_id": "10167",
+      "dep_id": "3231",
+      "ev_gol": 0,
+      "dep_gol": 0
+    },
+    {
+      "id": "401878348",
+      "lig": "sco.1",
+      "tarih": "2026-11-24T19:45Z",
+      "ev": "Hibernian",
+      "dep": "Dundee",
+      "ev_id": "258",
+      "dep_id": "261",
+      "ev_gol": 2,
+      "dep_gol": 1
+    },
+    {
       "id": "401880141",
       "lig": "eng.2",
       "tarih": "2026-11-24T20:00Z",
@@ -5501,6 +9571,28 @@
       "dep": "Derby County",
       "ev_id": "380",
       "dep_id": "374",
+      "ev_gol": 3,
+      "dep_gol": 0
+    },
+    {
+      "id": "401878345",
+      "lig": "sco.1",
+      "tarih": "2026-11-24T20:00Z",
+      "ev": "Rangers",
+      "dep": "Aberdeen",
+      "ev_id": "257",
+      "dep_id": "263",
+      "ev_gol": 3,
+      "dep_gol": 2
+    },
+    {
+      "id": "401841335",
+      "lig": "bra.1",
+      "tarih": "2026-11-24T21:00Z",
+      "ev": "Chapecoense",
+      "dep": "Palmeiras",
+      "ev_id": "9318",
+      "dep_id": "2029",
       "ev_gol": 3,
       "dep_gol": 0
     }
