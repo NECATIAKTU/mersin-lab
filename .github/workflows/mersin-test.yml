@@ -24,3 +24,9 @@ jobs:
 
       - name: MERSIN matematik testleri
         run: python -m unittest -v test_lab
+
+      - name: MERSIN ham veri kontrolu
+        run: python veri_baglantisi.py
+
+      - name: MERSIN V04 istatistik kontrolu
+        run: python lab_v04.py
