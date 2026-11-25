@@ -35,7 +35,7 @@ jobs:
         run: python gecmis_veri.py
 
       - name: MERSIN veri arsivini sakla
-        uses: actions/upload-artifact@v4
+        uses: actions/upload-artifact@v6
         with:
           name: mersin-gecmis-verileri
           path: mersin_gecmis.json
