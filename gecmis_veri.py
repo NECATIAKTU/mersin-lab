@@ -112,10 +112,17 @@ def calistir():
 
         print(lig, "MAC:", len(lig_maclari))
 
-    if hatalar or not kayitlar:
+    if not kayitlar:
         raise RuntimeError(
-            "Veri eksik. Arsiv degistirilmedi."
+            "Hic veri alinamadi. Arsiv korundu."
         )
+
+    if hatalar:
+        print("UYARI: Kismi veri toplandi.")
+        print("Hatali sorgu sayisi:", len(hatalar))
+
+        for hata in hatalar:
+            print("VERI HATASI:", hata)
 
     rapor = {
         "sistem": "MERSIN LAB V05",
