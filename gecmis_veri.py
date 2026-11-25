@@ -9,16 +9,17 @@ LIGLER = [
     "ita.1", "fra.1", "tur.1"
 ]
 
-GUN = 30
-
+GUN = 7
 CIKTI = Path("mersin_gecmis.json")
 
 
-def indir(lig, baslangic, bitis):
+def indir(lig, gun):
+    tarih = gun.strftime("%Y%m%d")
+
     url = (
         "https://site.api.espn.com/apis/site/v2/"
         f"sports/soccer/{lig}/scoreboard"
-        f"?dates={baslangic}-{bitis}&limit=500"
+        f"?dates={tarih}&limit=500"
     )
 
     req = Request(
@@ -64,39 +65,40 @@ def ayikla(veri, lig):
                 "dep_gol": int(dep["score"])
             })
 
-        except (KeyError, ValueError, TypeError, IndexError, StopIteration):
+        except (KeyError, ValueError, TypeError,
+                IndexError, StopIteration):
             continue
 
     return maclar
 
 
 def calistir():
-    bitis = datetime.now(timezone.utc).date()
-    baslangic = bitis - timedelta(days=GUN)
+    bugun = datetime.now(timezone.utc).date()
 
     kayitlar = {}
     hatalar = []
 
     for lig in LIGLER:
-        try:
-            veri = indir(
-                lig,
-                baslangic.strftime("%Y%m%d"),
-                bitis.strftime("%Y%m%d")
-            )
+        lig_maclari = {}
 
-            maclar = ayikla(veri, lig)
+        for i in range(1, GUN + 1):
+            gun = bugun - timedelta(days=i)
 
-            for mac in maclar:
-                kayitlar[(lig, mac["id"])] = mac
+            try:
+                veri = indir(lig, gun)
 
-            print(lig, "MAC:", len(maclar))
+                for mac in ayikla(veri, lig):
+                    key = (lig, mac["id"])
+                    lig_maclari[key] = mac
+                    kayitlar[key] = mac
 
-        except Exception as hata:
-            hatalar.append(lig)
-            print(lig, "HATA:", hata)
+            except Exception as hata:
+                hatalar.append((lig, str(gun)))
+                print(lig, gun, "HATA:", hata)
 
-        time.sleep(1)
+            time.sleep(0.3)
+
+        print(lig, "MAC:", len(lig_maclari))
 
     if hatalar or not kayitlar:
         raise RuntimeError(
@@ -114,7 +116,11 @@ def calistir():
     }
 
     CIKTI.write_text(
-        json.dumps(rapor, indent=2, ensure_ascii=False),
+        json.dumps(
+            rapor,
+            indent=2,
+            ensure_ascii=False
+        ),
         encoding="utf-8"
     )
 
