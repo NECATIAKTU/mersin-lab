@@ -32,6 +32,8 @@ jobs:
         run: python lab_v04.py
       - name: MERSIN V11 entegrasyon testi
         run: python entegrasyon.py
+      - name: MERSIN V13 gecmis performans testi
+        run: python backtest.py
       - name: MERSIN gecmis veri toplama
         run: python gecmis_veri.py
 
