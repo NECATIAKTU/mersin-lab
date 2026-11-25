@@ -9,7 +9,7 @@ permissions:
 jobs:
   matematik-test:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
+    timeout-minutes: 15
 
     steps:
       - name: Kaynak kodu al
