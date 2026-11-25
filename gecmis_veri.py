@@ -21,7 +21,7 @@ LIGLER = [
 ]
 
 
-GUN = 30
+GUN = 90
 CIKTI = Path("mersin_gecmis.json")
 
 
