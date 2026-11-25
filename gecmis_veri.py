@@ -5,14 +5,21 @@ from urllib.request import Request, urlopen
 from pathlib import Path
 
 LIGLER = [
-    "eng.1", "eng.2", "eng.3",
+    "eng.1", "eng.2", "eng.3", "eng.4", "eng.5",
     "esp.1", "esp.2",
     "ger.1", "ger.2",
     "ita.1", "ita.2",
     "fra.1", "fra.2",
-    "tur.1", "ned.1",
-    "por.1", "bel.1"
+    "tur.1", "tur.2",
+    "ned.1", "ned.2",
+    "por.1", "bel.1",
+    "sco.1", "sco.2",
+    "aut.1", "sui.1",
+    "gre.1", "den.1",
+    "nor.1", "swe.1",
+    "pol.1", "arg.1", "bra.1"
 ]
+
 
 GUN = 30
 CIKTI = Path("mersin_gecmis.json")
