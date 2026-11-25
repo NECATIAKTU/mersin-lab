@@ -14,7 +14,12 @@ def gecmis_hazirla(veri, kesim):
     sonuc = []
 
     for mac in veri["gecmis"]:
-        if tarih(mac["dogrulama_zamani"]) < kesim:
+        dogrulama = mac.get("dogrulama_zamani")
+
+        if not dogrulama:
+            continue
+
+        if tarih(dogrulama) < kesim:
             if tarih(mac["tarih"]) < kesim:
                 sonuc.append(mac)
 
