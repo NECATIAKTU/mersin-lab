@@ -1,7 +1,7 @@
 {
   "sistem": "MERSIN LAB V06",
-  "guncelleme": "2026-11-26T01:17:40.370036+00:00",
-  "mac_sayisi": 2871,
+  "guncelleme": "2026-11-26T04:17:27.601166+00:00",
+  "mac_sayisi": 2872,
   "lig_sayisi": 27,
   "maclar": [
     {
@@ -31584,6 +31584,17 @@
       "dep_id": "874",
       "ev_gol": 1,
       "dep_gol": 1
+    },
+    {
+      "id": "401933757",
+      "lig": "arg.1",
+      "tarih": "2026-11-26T00:00Z",
+      "ev": "Boca Juniors",
+      "dep": "Independiente Rivadavia",
+      "ev_id": "5",
+      "dep_id": "9744",
+      "ev_gol": 2,
+      "dep_gol": 0
     }
   ]
 }
