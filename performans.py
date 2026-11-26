@@ -59,7 +59,7 @@ def yaz(dosya, veri):
 def anahtar(mac):
     return (
         str(mac["lig"]),
-        str(mac["id"])
+        str(mac["id"]).split("|")[-1]
     )
 
 
