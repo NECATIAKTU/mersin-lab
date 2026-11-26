@@ -6,6 +6,10 @@ on:
 permissions:
   contents: write
 
+concurrency:
+  group: mersin-lab-main
+  cancel-in-progress: false
+
 jobs:
   matematik-test:
     runs-on: ubuntu-latest
@@ -30,12 +34,16 @@ jobs:
 
       - name: MERSIN V04 istatistik kontrolu
         run: python lab_v04.py
+
       - name: MERSIN V11 entegrasyon testi
         run: python entegrasyon.py
+
       - name: MERSIN V13 gecmis performans testi
         run: python backtest.py
+
       - name: MERSIN V14 bilimsel dogrulama
         run: python dogrulama.py
+
       - name: MERSIN gecmis veri toplama
         run: python gecmis_veri.py
 
@@ -49,24 +57,39 @@ jobs:
 
       - name: MERSIN kalici arsiv olustur
         run: python kalici_arsiv.py
+
       - name: MERSIN V15 panel aktarimi
         run: python panel_aktarim.py
+
+      - name: MERSIN V17 tahminleri kilitle
+        run: python performans.py
+
+      - name: MERSIN V17 performans hesapla
+        run: python performans_sonuc.py
+
       - name: MERSIN kalici arsiv yedegi
         uses: actions/upload-artifact@v6
         with:
           name: mersin-kalici-arsiv
-          path: mersin_kalici_arsiv.json
+          path: |
+            mersin_kalici_arsiv.json
+            mersin_tahmin_arsivi.json
+            mersin_performans.json
           retention-days: 30
           if-no-files-found: error
+
       - name: MERSIN kalici arsivi kaydet
         if: github.repository == 'NECATIAKTU/mersin-lab' && github.ref == 'refs/heads/main'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add mersin_kalici_arsiv.json mersin_panel.json
+          git add mersin_kalici_arsiv.json
+          git add mersin_panel.json
+          git add mersin_tahmin_arsivi.json
+          git add mersin_performans.json
           if git diff --cached --quiet; then
             echo "Degisiklik yok"
           else
-            git commit -m "MERSIN kalici arsiv guncelleme"
+            git commit -m "MERSIN V17 performans ve arsiv guncelleme"
             git push origin HEAD:main
           fi
