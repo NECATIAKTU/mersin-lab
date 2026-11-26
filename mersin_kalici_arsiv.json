@@ -1,7 +1,7 @@
 {
   "sistem": "MERSIN LAB V06",
-  "guncelleme": "2026-11-25T15:58:55.705352+00:00",
-  "mac_sayisi": 2859,
+  "guncelleme": "2026-11-26T01:17:40.370036+00:00",
+  "mac_sayisi": 2871,
   "lig_sayisi": 27,
   "maclar": [
     {
@@ -31452,6 +31452,138 @@
       "dep_id": "2029",
       "ev_gol": 3,
       "dep_gol": 0
+    },
+    {
+      "id": "401899537",
+      "lig": "ita.2",
+      "tarih": "2026-11-25T18:00Z",
+      "ev": "Cremonese",
+      "dep": "US Avellino",
+      "ev_id": "4050",
+      "dep_id": "4055",
+      "ev_gol": 0,
+      "dep_gol": 1
+    },
+    {
+      "id": "401889182",
+      "lig": "eng.5",
+      "tarih": "2026-11-25T19:00Z",
+      "ev": "Boreham Wood",
+      "dep": "Aldershot Town",
+      "ev_id": "2595",
+      "dep_id": "632",
+      "ev_gol": 4,
+      "dep_gol": 1
+    },
+    {
+      "id": "401899531",
+      "lig": "ita.2",
+      "tarih": "2026-11-25T19:00Z",
+      "ev": "Pisa",
+      "dep": "Modena",
+      "ev_id": "3956",
+      "dep_id": "2573",
+      "ev_gol": 1,
+      "dep_gol": 1
+    },
+    {
+      "id": "401899533",
+      "lig": "ita.2",
+      "tarih": "2026-11-25T19:00Z",
+      "ev": "Padova",
+      "dep": "Sampdoria",
+      "ev_id": "3952",
+      "dep_id": "2734",
+      "ev_gol": 1,
+      "dep_gol": 2
+    },
+    {
+      "id": "401899534",
+      "lig": "ita.2",
+      "tarih": "2026-11-25T19:00Z",
+      "ev": "Mantova",
+      "dep": "Arezzo",
+      "ev_id": "3991",
+      "dep_id": "3345",
+      "ev_gol": 3,
+      "dep_gol": 0
+    },
+    {
+      "id": "401880137",
+      "lig": "eng.2",
+      "tarih": "2026-11-25T19:45Z",
+      "ev": "Watford",
+      "dep": "Blackburn Rovers",
+      "ev_id": "395",
+      "dep_id": "365",
+      "ev_gol": 0,
+      "dep_gol": 1
+    },
+    {
+      "id": "401880139",
+      "lig": "eng.2",
+      "tarih": "2026-11-25T19:45Z",
+      "ev": "Burnley",
+      "dep": "Birmingham City",
+      "ev_id": "379",
+      "dep_id": "392",
+      "ev_gol": 0,
+      "dep_gol": 2
+    },
+    {
+      "id": "401880140",
+      "lig": "eng.2",
+      "tarih": "2026-11-25T19:45Z",
+      "ev": "Bolton Wanderers",
+      "dep": "West Bromwich Albion",
+      "ev_id": "358",
+      "dep_id": "383",
+      "ev_gol": 1,
+      "dep_gol": 3
+    },
+    {
+      "id": "401889180",
+      "lig": "eng.5",
+      "tarih": "2026-11-25T19:45Z",
+      "ev": "Hartlepool United",
+      "dep": "Solihull Moors",
+      "ev_id": "323",
+      "dep_id": "13061",
+      "ev_gol": 2,
+      "dep_gol": 0
+    },
+    {
+      "id": "401889181",
+      "lig": "eng.5",
+      "tarih": "2026-11-25T19:45Z",
+      "ev": "Harrogate Town",
+      "dep": "Kidderminster Harriers",
+      "ev_id": "19262",
+      "dep_id": "319",
+      "ev_gol": 3,
+      "dep_gol": 1
+    },
+    {
+      "id": "401880138",
+      "lig": "eng.2",
+      "tarih": "2026-11-25T20:00Z",
+      "ev": "Stoke City",
+      "dep": "Millwall",
+      "ev_id": "336",
+      "dep_id": "391",
+      "ev_gol": 2,
+      "dep_gol": 1
+    },
+    {
+      "id": "401841319",
+      "lig": "bra.1",
+      "tarih": "2026-11-25T23:00Z",
+      "ev": "Atlético-MG",
+      "dep": "Corinthians",
+      "ev_id": "7632",
+      "dep_id": "874",
+      "ev_gol": 1,
+      "dep_gol": 1
     }
   ]
 }
